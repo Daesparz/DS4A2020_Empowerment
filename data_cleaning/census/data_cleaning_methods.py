@@ -17,6 +17,10 @@ def frequency_missing(df, category):
     print('Category must be "absolute" or "relative"')
     return None
 
+def percent_missing(df):
+    temp = df.isna().sum()/(len(df))*100
+    return temp
+
 def missing(df):
     #Return the columns with more and less missing values
     temp = df.isna().sum()/(len(df))*100

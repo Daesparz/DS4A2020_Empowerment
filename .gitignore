@@ -3,4 +3,7 @@
 __pycache__
 .vscode
 #keep data/household empty
-data
+data/raw/census
+data/raw/mobility
+data/interim/census
+data/raw/restaurants/Yelp_datasets

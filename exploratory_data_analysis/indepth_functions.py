@@ -281,7 +281,6 @@ def compile_decomposition(df, variable_decomposition, location):
     _ = plt.ylabel('Route requests', size=12)
     _ = plt.legend(('Transit routes', 'Driving routes', 'Walking routes'))
 
-
 def transaction_cleaning(transaction):
 
     l1 = ['restaurant_reservation', 'pickup', 'delivery']
@@ -292,24 +291,27 @@ def transaction_cleaning(transaction):
     l6 = ['delivery']
     l7 = ['restaurant_reservation']
 
-    t = transaction[1:-1].replace("'", "").replace(" ", "").split(',')
-    set1 = set(t)
+    try:
+        t = transaction[1:-1].replace("'", "").replace(" ", "").split(',')
+        set1 = set(t)
 
-    if set(l1).intersection(set1) == set(l1) and set(l1).intersection(set1) == set1:
-        return l1
-    elif set(l2).intersection(set1) == set(l2) and set(l2).intersection(set1) == set1:
-        return l2
-    elif set(l3).intersection(set1) == set(l3) and set(l3).intersection(set1) == set1:
-        return l3
-    elif set(l4).intersection(set1) == set(l4) and set(l4).intersection(set1) == set1:
-        return l4
-    elif set(l5).intersection(set1) == set(l5) and set(l5).intersection(set1) == set1:
-        return l5
-    elif set(l6).intersection(set1) == set(l6) and set(l6).intersection(set1) == set1:
-        return l6
-    elif set(l7).intersection(set1) == set(l7)and set(l7).intersection(set1) == set1:
-        return l7
-    else:
+        if set(l1).intersection(set1) == set(l1) and set(l1).intersection(set1) == set1:
+            return l1
+        elif set(l2).intersection(set1) == set(l2) and set(l2).intersection(set1) == set1:
+            return l2
+        elif set(l3).intersection(set1) == set(l3) and set(l3).intersection(set1) == set1:
+            return l3
+        elif set(l4).intersection(set1) == set(l4) and set(l4).intersection(set1) == set1:
+            return l4
+        elif set(l5).intersection(set1) == set(l5) and set(l5).intersection(set1) == set1:
+            return l5
+        elif set(l6).intersection(set1) == set(l6) and set(l6).intersection(set1) == set1:
+            return l6
+        elif set(l7).intersection(set1) == set(l7)and set(l7).intersection(set1) == set1:
+            return l7
+        else:
+            return np.nan
+    except:
         return np.nan
 
 def convert2dollar(price):
@@ -324,3 +326,17 @@ def convert2dollar(price):
         return 120
     else:
         return np.nan
+
+def check_pickup_delivery(purchase):
+#Check if the clean purchase list contains pickup and delivery
+    if purchase is np.nan:
+        return np.nan
+    
+    if 'pickup' in purchase and 'delivery' in purchase:
+        return 'pickup and delivery'
+    elif 'pickup' in purchase and 'delivery' not in purchase:
+        return 'only pickup'
+    elif 'pickup' not in purchase and 'delivery' in purchase:
+        return 'only delivery'
+    else:
+        return 'neither pickup nor delivery'

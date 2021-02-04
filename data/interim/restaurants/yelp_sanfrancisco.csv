@@ -1,4 +1,4 @@
-,ids,names,rating,review_count,price,transactions,is_closed,type_food,type_food_alias,latitude,longitude,country,state,city,zip_code,transactions_
+i,ids,names,rating,review_count,price,transactions,is_closed,type_food,type_food_alias,latitude,longitude,country,state,city,zip_code,transactions_
 0,lJAGnYzku5zSaLnQ_T6_GQ,Brenda's French Soul Food,4.0,11052,$$,['delivery'],False,"Breakfast & Brunch, Southern, Cajun/Creole","breakfast_brunch, southern, cajun",37.7829016035273,-122.419043442957,US,CA,San Francisco,94102,['delivery']
 1,NIxLwW9mdYegtqhxmXjoaQ,Sunset Squares Pizza,4.0,9,,[],False,Pizza,pizza,37.776902,-122.415244,US,CA,San Francisco,94103,
 2,AMhxom9yhQjTkFRMTKk_IA,WingSlut,4.5,6,,[],False,"Chicken Wings, Fast Food, Asian Fusion","chicken_wings, hotdogs, asianfusion",37.776775,-122.416414,US,CA,San Francisco,94103,

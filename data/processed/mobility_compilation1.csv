@@ -1,0 +1,1563 @@
+date,location,src,value
+2020-03-01,San Francisco,indexed_average_person,77.0
+2020-03-02,San Francisco,indexed_average_person,97.0
+2020-03-03,San Francisco,indexed_average_person,95.0
+2020-03-04,San Francisco,indexed_average_person,101.0
+2020-03-05,San Francisco,indexed_average_person,100.0
+2020-03-06,San Francisco,indexed_average_person,112.0
+2020-03-07,San Francisco,indexed_average_person,89.0
+2020-03-08,San Francisco,indexed_average_person,76.0
+2020-03-09,San Francisco,indexed_average_person,78.0
+2020-03-10,San Francisco,indexed_average_person,84.0
+2020-03-11,San Francisco,indexed_average_person,87.0
+2020-03-12,San Francisco,indexed_average_person,81.0
+2020-03-13,San Francisco,indexed_average_person,87.0
+2020-03-14,San Francisco,indexed_average_person,38.0
+2020-03-15,San Francisco,indexed_average_person,19.0
+2020-03-16,San Francisco,indexed_average_person,48.0
+2020-03-17,San Francisco,indexed_average_person,2.0
+2020-03-18,San Francisco,indexed_average_person,2.0
+2020-03-19,San Francisco,indexed_average_person,1.0
+2020-03-20,San Francisco,indexed_average_person,3.0
+2020-03-21,San Francisco,indexed_average_person,1.0
+2020-03-22,San Francisco,indexed_average_person,1.0
+2020-03-23,San Francisco,indexed_average_person,0.0
+2020-03-24,San Francisco,indexed_average_person,0.0
+2020-03-25,San Francisco,indexed_average_person,1.0
+2020-03-26,San Francisco,indexed_average_person,0.0
+2020-03-27,San Francisco,indexed_average_person,1.0
+2020-03-28,San Francisco,indexed_average_person,0.0
+2020-03-29,San Francisco,indexed_average_person,0.0
+2020-03-30,San Francisco,indexed_average_person,0.0
+2020-03-31,San Francisco,indexed_average_person,0.0
+2020-04-01,San Francisco,indexed_average_person,0.0
+2020-04-02,San Francisco,indexed_average_person,1.0
+2020-04-03,San Francisco,indexed_average_person,1.0
+2020-04-04,San Francisco,indexed_average_person,0.0
+2020-04-05,San Francisco,indexed_average_person,0.0
+2020-04-06,San Francisco,indexed_average_person,0.0
+2020-04-07,San Francisco,indexed_average_person,0.0
+2020-04-08,San Francisco,indexed_average_person,0.0
+2020-04-09,San Francisco,indexed_average_person,0.0
+2020-04-10,San Francisco,indexed_average_person,1.0
+2020-04-11,San Francisco,indexed_average_person,0.0
+2020-04-12,San Francisco,indexed_average_person,0.0
+2020-04-13,San Francisco,indexed_average_person,0.0
+2020-04-14,San Francisco,indexed_average_person,0.0
+2020-04-15,San Francisco,indexed_average_person,0.0
+2020-04-16,San Francisco,indexed_average_person,0.0
+2020-04-17,San Francisco,indexed_average_person,0.0
+2020-04-18,San Francisco,indexed_average_person,0.0
+2020-04-19,San Francisco,indexed_average_person,0.0
+2020-04-21,San Francisco,indexed_average_person,0.0
+2020-04-22,San Francisco,indexed_average_person,0.0
+2020-04-23,San Francisco,indexed_average_person,0.0
+2020-04-24,San Francisco,indexed_average_person,0.0
+2020-04-25,San Francisco,indexed_average_person,0.0
+2020-04-26,San Francisco,indexed_average_person,0.0
+2020-04-27,San Francisco,indexed_average_person,0.0
+2020-04-28,San Francisco,indexed_average_person,0.0
+2020-04-29,San Francisco,indexed_average_person,0.0
+2020-04-30,San Francisco,indexed_average_person,0.0
+2020-05-01,San Francisco,indexed_average_person,1.0
+2020-05-02,San Francisco,indexed_average_person,1.0
+2020-05-03,San Francisco,indexed_average_person,1.0
+2020-05-04,San Francisco,indexed_average_person,0.0
+2020-05-05,San Francisco,indexed_average_person,0.0
+2020-05-06,San Francisco,indexed_average_person,0.0
+2020-05-07,San Francisco,indexed_average_person,0.0
+2020-05-08,San Francisco,indexed_average_person,0.0
+2020-05-09,San Francisco,indexed_average_person,0.0
+2020-05-10,San Francisco,indexed_average_person,0.0
+2020-05-11,San Francisco,indexed_average_person,0.0
+2020-05-12,San Francisco,indexed_average_person,0.0
+2020-05-13,San Francisco,indexed_average_person,0.0
+2020-05-14,San Francisco,indexed_average_person,0.0
+2020-05-15,San Francisco,indexed_average_person,4.0
+2020-05-16,San Francisco,indexed_average_person,2.0
+2020-05-17,San Francisco,indexed_average_person,0.0
+2020-05-18,San Francisco,indexed_average_person,0.0
+2020-05-19,San Francisco,indexed_average_person,1.0
+2020-05-20,San Francisco,indexed_average_person,1.0
+2020-05-21,San Francisco,indexed_average_person,3.0
+2020-05-22,San Francisco,indexed_average_person,8.0
+2020-05-23,San Francisco,indexed_average_person,4.0
+2020-05-24,San Francisco,indexed_average_person,4.0
+2020-05-25,San Francisco,indexed_average_person,2.0
+2020-05-26,San Francisco,indexed_average_person,4.0
+2020-05-27,San Francisco,indexed_average_person,2.0
+2020-05-28,San Francisco,indexed_average_person,4.0
+2020-05-30,San Francisco,indexed_average_person,1.0
+2020-05-31,San Francisco,indexed_average_person,1.0
+2020-06-01,San Francisco,indexed_average_person,3.0
+2020-06-02,San Francisco,indexed_average_person,6.0
+2020-06-03,San Francisco,indexed_average_person,5.0
+2020-06-04,San Francisco,indexed_average_person,9.0
+2020-06-05,San Francisco,indexed_average_person,13.0
+2020-06-06,San Francisco,indexed_average_person,14.0
+2020-06-07,San Francisco,indexed_average_person,2.0
+2020-06-08,San Francisco,indexed_average_person,12.0
+2020-06-09,San Francisco,indexed_average_person,2.0
+2020-06-10,San Francisco,indexed_average_person,14.0
+2020-06-11,San Francisco,indexed_average_person,12.0
+2020-06-12,San Francisco,indexed_average_person,14.0
+2020-06-13,San Francisco,indexed_average_person,21.0
+2020-06-14,San Francisco,indexed_average_person,3.0
+2020-06-15,San Francisco,indexed_average_person,8.0
+2020-06-16,San Francisco,indexed_average_person,4.0
+2020-06-17,San Francisco,indexed_average_person,12.0
+2020-06-18,San Francisco,indexed_average_person,27.0
+2020-06-19,San Francisco,indexed_average_person,42.0
+2020-06-20,San Francisco,indexed_average_person,20.0
+2020-06-21,San Francisco,indexed_average_person,3.0
+2020-06-22,San Francisco,indexed_average_person,12.0
+2020-06-23,San Francisco,indexed_average_person,14.0
+2020-06-24,San Francisco,indexed_average_person,26.0
+2020-06-25,San Francisco,indexed_average_person,14.0
+2020-06-26,San Francisco,indexed_average_person,37.0
+2020-06-27,San Francisco,indexed_average_person,38.0
+2020-06-28,San Francisco,indexed_average_person,7.0
+2020-06-29,San Francisco,indexed_average_person,19.0
+2020-06-30,San Francisco,indexed_average_person,27.0
+2020-07-01,San Francisco,indexed_average_person,27.0
+2020-07-02,San Francisco,indexed_average_person,34.0
+2020-07-03,San Francisco,indexed_average_person,37.0
+2020-07-04,San Francisco,indexed_average_person,12.0
+2020-07-05,San Francisco,indexed_average_person,9.0
+2020-07-06,San Francisco,indexed_average_person,30.0
+2020-07-07,San Francisco,indexed_average_person,22.0
+2020-07-08,San Francisco,indexed_average_person,21.0
+2020-07-09,San Francisco,indexed_average_person,24.0
+2020-07-10,San Francisco,indexed_average_person,23.0
+2020-07-11,San Francisco,indexed_average_person,32.0
+2020-07-12,San Francisco,indexed_average_person,11.0
+2020-07-13,San Francisco,indexed_average_person,13.0
+2020-07-14,San Francisco,indexed_average_person,16.0
+2020-07-15,San Francisco,indexed_average_person,11.0
+2020-07-16,San Francisco,indexed_average_person,13.0
+2020-07-17,San Francisco,indexed_average_person,12.0
+2020-07-18,San Francisco,indexed_average_person,4.0
+2020-07-19,San Francisco,indexed_average_person,8.0
+2020-07-20,San Francisco,indexed_average_person,8.0
+2020-07-21,San Francisco,indexed_average_person,9.0
+2020-07-22,San Francisco,indexed_average_person,12.0
+2020-07-23,San Francisco,indexed_average_person,9.0
+2020-07-24,San Francisco,indexed_average_person,18.0
+2020-07-25,San Francisco,indexed_average_person,11.0
+2020-07-26,San Francisco,indexed_average_person,3.0
+2020-07-27,San Francisco,indexed_average_person,11.0
+2020-07-28,San Francisco,indexed_average_person,12.0
+2020-07-29,San Francisco,indexed_average_person,13.0
+2020-07-30,San Francisco,indexed_average_person,13.0
+2020-07-31,San Francisco,indexed_average_person,26.0
+2020-08-01,San Francisco,indexed_average_person,19.0
+2020-08-02,San Francisco,indexed_average_person,2.0
+2020-08-03,San Francisco,indexed_average_person,14.0
+2020-08-04,San Francisco,indexed_average_person,14.0
+2020-08-05,San Francisco,indexed_average_person,19.0
+2020-08-06,San Francisco,indexed_average_person,17.0
+2020-08-07,San Francisco,indexed_average_person,22.0
+2020-08-08,San Francisco,indexed_average_person,23.0
+2020-08-09,San Francisco,indexed_average_person,7.0
+2020-08-10,San Francisco,indexed_average_person,11.0
+2020-08-11,San Francisco,indexed_average_person,15.0
+2020-08-12,San Francisco,indexed_average_person,17.0
+2020-08-13,San Francisco,indexed_average_person,20.0
+2020-08-14,San Francisco,indexed_average_person,24.0
+2020-08-15,San Francisco,indexed_average_person,29.0
+2020-08-16,San Francisco,indexed_average_person,1.0
+2020-08-17,San Francisco,indexed_average_person,9.0
+2020-08-18,San Francisco,indexed_average_person,22.0
+2020-08-19,San Francisco,indexed_average_person,12.0
+2020-08-20,San Francisco,indexed_average_person,18.0
+2020-08-21,San Francisco,indexed_average_person,32.0
+2020-08-22,San Francisco,indexed_average_person,26.0
+2020-08-23,San Francisco,indexed_average_person,6.0
+2020-08-24,San Francisco,indexed_average_person,17.0
+2020-08-25,San Francisco,indexed_average_person,17.0
+2020-08-26,San Francisco,indexed_average_person,12.0
+2020-08-27,San Francisco,indexed_average_person,19.0
+2020-08-28,San Francisco,indexed_average_person,26.0
+2020-08-29,San Francisco,indexed_average_person,32.0
+2020-08-30,San Francisco,indexed_average_person,5.0
+2020-08-31,San Francisco,indexed_average_person,16.0
+2020-09-01,San Francisco,indexed_average_person,24.0
+2020-09-02,San Francisco,indexed_average_person,28.0
+2020-09-03,San Francisco,indexed_average_person,25.0
+2020-09-04,San Francisco,indexed_average_person,37.0
+2020-09-05,San Francisco,indexed_average_person,31.0
+2020-09-06,San Francisco,indexed_average_person,30.0
+2020-09-07,San Francisco,indexed_average_person,13.0
+2020-09-08,San Francisco,indexed_average_person,17.0
+2020-09-09,San Francisco,indexed_average_person,19.0
+2020-09-10,San Francisco,indexed_average_person,15.0
+2020-09-11,San Francisco,indexed_average_person,20.0
+2020-09-12,San Francisco,indexed_average_person,18.0
+2020-09-13,San Francisco,indexed_average_person,5.0
+2020-09-14,San Francisco,indexed_average_person,22.0
+2020-09-15,San Francisco,indexed_average_person,17.0
+2020-09-16,San Francisco,indexed_average_person,29.0
+2020-09-17,San Francisco,indexed_average_person,26.0
+2020-09-18,San Francisco,indexed_average_person,44.0
+2020-09-19,San Francisco,indexed_average_person,40.0
+2020-09-20,San Francisco,indexed_average_person,22.0
+2020-09-21,San Francisco,indexed_average_person,24.0
+2020-09-22,San Francisco,indexed_average_person,16.0
+2020-09-23,San Francisco,indexed_average_person,24.0
+2020-09-24,San Francisco,indexed_average_person,26.0
+2020-09-25,San Francisco,indexed_average_person,47.0
+2020-09-26,San Francisco,indexed_average_person,43.0
+2020-09-27,San Francisco,indexed_average_person,19.0
+2020-09-28,San Francisco,indexed_average_person,20.0
+2020-09-29,San Francisco,indexed_average_person,33.0
+2020-09-30,San Francisco,indexed_average_person,41.0
+2020-10-01,San Francisco,indexed_average_person,63.0
+2020-10-02,San Francisco,indexed_average_person,53.0
+2020-10-03,San Francisco,indexed_average_person,38.0
+2020-10-04,San Francisco,indexed_average_person,15.0
+2020-10-05,San Francisco,indexed_average_person,30.0
+2020-10-06,San Francisco,indexed_average_person,25.0
+2020-10-07,San Francisco,indexed_average_person,27.0
+2020-10-09,San Francisco,indexed_average_person,39.0
+2020-10-10,San Francisco,indexed_average_person,36.0
+2020-10-11,San Francisco,indexed_average_person,24.0
+2020-10-12,San Francisco,indexed_average_person,22.0
+2020-10-13,San Francisco,indexed_average_person,24.0
+2020-10-14,San Francisco,indexed_average_person,29.0
+2020-10-15,San Francisco,indexed_average_person,36.0
+2020-10-16,San Francisco,indexed_average_person,38.0
+2020-10-17,San Francisco,indexed_average_person,48.0
+2020-10-18,San Francisco,indexed_average_person,23.0
+2020-10-19,San Francisco,indexed_average_person,29.0
+2020-10-20,San Francisco,indexed_average_person,27.0
+2020-10-21,San Francisco,indexed_average_person,28.0
+2020-10-22,San Francisco,indexed_average_person,35.0
+2020-10-23,San Francisco,indexed_average_person,44.0
+2020-10-24,San Francisco,indexed_average_person,42.0
+2020-10-25,San Francisco,indexed_average_person,19.0
+2020-10-26,San Francisco,indexed_average_person,24.0
+2020-10-27,San Francisco,indexed_average_person,28.0
+2020-10-28,San Francisco,indexed_average_person,25.0
+2020-10-29,San Francisco,indexed_average_person,27.0
+2020-10-30,San Francisco,indexed_average_person,36.0
+2020-03-01,San Francisco,mobility_average_person,2.6630000000000003
+2020-03-02,San Francisco,mobility_average_person,3.3369999999999997
+2020-03-03,San Francisco,mobility_average_person,3.28
+2020-03-04,San Francisco,mobility_average_person,3.463
+2020-03-05,San Francisco,mobility_average_person,3.42
+2020-03-06,San Francisco,mobility_average_person,3.8369999999999997
+2020-03-07,San Francisco,mobility_average_person,3.065
+2020-03-08,San Francisco,mobility_average_person,2.622
+2020-03-09,San Francisco,mobility_average_person,2.699
+2020-03-10,San Francisco,mobility_average_person,2.8939999999999997
+2020-03-11,San Francisco,mobility_average_person,3.005
+2020-03-12,San Francisco,mobility_average_person,2.79
+2020-03-13,San Francisco,mobility_average_person,2.984
+2020-03-14,San Francisco,mobility_average_person,1.305
+2020-03-15,San Francisco,mobility_average_person,0.6709999999999999
+2020-03-16,San Francisco,mobility_average_person,1.6480000000000001
+2020-03-17,San Francisco,mobility_average_person,0.069
+2020-03-18,San Francisco,mobility_average_person,0.08199999999999999
+2020-03-19,San Francisco,mobility_average_person,0.042
+2020-03-20,San Francisco,mobility_average_person,0.11699999999999999
+2020-03-21,San Francisco,mobility_average_person,0.036000000000000004
+2020-03-22,San Francisco,mobility_average_person,0.042
+2020-03-23,San Francisco,mobility_average_person,0.034
+2020-03-24,San Francisco,mobility_average_person,0.027000000000000003
+2020-03-25,San Francisco,mobility_average_person,0.042
+2020-03-26,San Francisco,mobility_average_person,0.028999999999999998
+2020-03-27,San Francisco,mobility_average_person,0.038
+2020-03-28,San Francisco,mobility_average_person,0.025
+2020-03-29,San Francisco,mobility_average_person,0.021
+2020-03-30,San Francisco,mobility_average_person,0.03
+2020-03-31,San Francisco,mobility_average_person,0.028999999999999998
+2020-04-01,San Francisco,mobility_average_person,0.026000000000000002
+2020-04-02,San Francisco,mobility_average_person,0.042
+2020-04-03,San Francisco,mobility_average_person,0.043
+2020-04-04,San Francisco,mobility_average_person,0.025
+2020-04-05,San Francisco,mobility_average_person,0.02
+2020-04-06,San Francisco,mobility_average_person,0.023
+2020-04-07,San Francisco,mobility_average_person,0.033
+2020-04-08,San Francisco,mobility_average_person,0.025
+2020-04-09,San Francisco,mobility_average_person,0.027999999999999997
+2020-04-10,San Francisco,mobility_average_person,0.05
+2020-04-11,San Francisco,mobility_average_person,0.027000000000000003
+2020-04-12,San Francisco,mobility_average_person,0.019
+2020-04-13,San Francisco,mobility_average_person,0.03
+2020-04-14,San Francisco,mobility_average_person,0.027999999999999997
+2020-04-15,San Francisco,mobility_average_person,0.027000000000000003
+2020-04-16,San Francisco,mobility_average_person,0.024
+2020-04-17,San Francisco,mobility_average_person,0.033
+2020-04-18,San Francisco,mobility_average_person,0.028999999999999998
+2020-04-19,San Francisco,mobility_average_person,0.027000000000000003
+2020-04-21,San Francisco,mobility_average_person,0.025
+2020-04-22,San Francisco,mobility_average_person,0.027000000000000003
+2020-04-23,San Francisco,mobility_average_person,0.026000000000000002
+2020-04-24,San Francisco,mobility_average_person,0.032
+2020-04-25,San Francisco,mobility_average_person,0.028999999999999998
+2020-04-26,San Francisco,mobility_average_person,0.022000000000000002
+2020-04-27,San Francisco,mobility_average_person,0.023
+2020-04-28,San Francisco,mobility_average_person,0.027000000000000003
+2020-04-29,San Francisco,mobility_average_person,0.024
+2020-04-30,San Francisco,mobility_average_person,0.034
+2020-05-01,San Francisco,mobility_average_person,0.052000000000000005
+2020-05-02,San Francisco,mobility_average_person,0.036000000000000004
+2020-05-03,San Francisco,mobility_average_person,0.04
+2020-05-04,San Francisco,mobility_average_person,0.028999999999999998
+2020-05-05,San Francisco,mobility_average_person,0.025
+2020-05-06,San Francisco,mobility_average_person,0.031
+2020-05-07,San Francisco,mobility_average_person,0.026000000000000002
+2020-05-08,San Francisco,mobility_average_person,0.026000000000000002
+2020-05-09,San Francisco,mobility_average_person,0.027000000000000003
+2020-05-10,San Francisco,mobility_average_person,0.025
+2020-05-11,San Francisco,mobility_average_person,0.023
+2020-05-12,San Francisco,mobility_average_person,0.023
+2020-05-13,San Francisco,mobility_average_person,0.025
+2020-05-14,San Francisco,mobility_average_person,0.023
+2020-05-15,San Francisco,mobility_average_person,0.14800000000000002
+2020-05-16,San Francisco,mobility_average_person,0.091
+2020-05-17,San Francisco,mobility_average_person,0.034
+2020-05-18,San Francisco,mobility_average_person,0.034
+2020-05-19,San Francisco,mobility_average_person,0.049
+2020-05-20,San Francisco,mobility_average_person,0.064
+2020-05-21,San Francisco,mobility_average_person,0.11199999999999999
+2020-05-22,San Francisco,mobility_average_person,0.301
+2020-05-23,San Francisco,mobility_average_person,0.156
+2020-05-24,San Francisco,mobility_average_person,0.146
+2020-05-25,San Francisco,mobility_average_person,0.071
+2020-05-26,San Francisco,mobility_average_person,0.142
+2020-05-27,San Francisco,mobility_average_person,0.09
+2020-05-28,San Francisco,mobility_average_person,0.165
+2020-05-30,San Francisco,mobility_average_person,0.06
+2020-05-31,San Francisco,mobility_average_person,0.057999999999999996
+2020-06-01,San Francisco,mobility_average_person,0.11599999999999999
+2020-06-02,San Francisco,mobility_average_person,0.22699999999999998
+2020-06-03,San Francisco,mobility_average_person,0.18600000000000005
+2020-06-04,San Francisco,mobility_average_person,0.311
+2020-06-05,San Francisco,mobility_average_person,0.461
+2020-06-06,San Francisco,mobility_average_person,0.493
+2020-06-07,San Francisco,mobility_average_person,0.07200000000000001
+2020-06-08,San Francisco,mobility_average_person,0.436
+2020-06-09,San Francisco,mobility_average_person,0.083
+2020-06-10,San Francisco,mobility_average_person,0.488
+2020-06-11,San Francisco,mobility_average_person,0.423
+2020-06-12,San Francisco,mobility_average_person,0.479
+2020-06-13,San Francisco,mobility_average_person,0.732
+2020-06-14,San Francisco,mobility_average_person,0.134
+2020-06-15,San Francisco,mobility_average_person,0.282
+2020-06-16,San Francisco,mobility_average_person,0.15
+2020-06-17,San Francisco,mobility_average_person,0.413
+2020-06-18,San Francisco,mobility_average_person,0.941
+2020-06-19,San Francisco,mobility_average_person,1.466
+2020-06-20,San Francisco,mobility_average_person,0.718
+2020-06-21,San Francisco,mobility_average_person,0.136
+2020-06-22,San Francisco,mobility_average_person,0.41700000000000004
+2020-06-23,San Francisco,mobility_average_person,0.48700000000000004
+2020-06-24,San Francisco,mobility_average_person,0.898
+2020-06-25,San Francisco,mobility_average_person,0.504
+2020-06-26,San Francisco,mobility_average_person,1.281
+2020-06-27,San Francisco,mobility_average_person,1.31
+2020-06-28,San Francisco,mobility_average_person,0.273
+2020-06-29,San Francisco,mobility_average_person,0.66
+2020-06-30,San Francisco,mobility_average_person,0.9440000000000001
+2020-07-01,San Francisco,mobility_average_person,0.9440000000000001
+2020-07-02,San Francisco,mobility_average_person,1.1640000000000001
+2020-07-03,San Francisco,mobility_average_person,1.29
+2020-07-04,San Francisco,mobility_average_person,0.418
+2020-07-05,San Francisco,mobility_average_person,0.33399999999999996
+2020-07-06,San Francisco,mobility_average_person,1.026
+2020-07-07,San Francisco,mobility_average_person,0.78
+2020-07-08,San Francisco,mobility_average_person,0.723
+2020-07-09,San Francisco,mobility_average_person,0.8270000000000001
+2020-07-10,San Francisco,mobility_average_person,0.8190000000000001
+2020-07-11,San Francisco,mobility_average_person,1.0959999999999999
+2020-07-12,San Francisco,mobility_average_person,0.37799999999999995
+2020-07-13,San Francisco,mobility_average_person,0.446
+2020-07-14,San Francisco,mobility_average_person,0.5589999999999999
+2020-07-15,San Francisco,mobility_average_person,0.382
+2020-07-16,San Francisco,mobility_average_person,0.47700000000000004
+2020-07-17,San Francisco,mobility_average_person,0.41700000000000004
+2020-07-18,San Francisco,mobility_average_person,0.163
+2020-07-19,San Francisco,mobility_average_person,0.29
+2020-07-20,San Francisco,mobility_average_person,0.29600000000000004
+2020-07-21,San Francisco,mobility_average_person,0.336
+2020-07-22,San Francisco,mobility_average_person,0.424
+2020-07-23,San Francisco,mobility_average_person,0.327
+2020-07-24,San Francisco,mobility_average_person,0.645
+2020-07-25,San Francisco,mobility_average_person,0.396
+2020-07-26,San Francisco,mobility_average_person,0.111
+2020-07-27,San Francisco,mobility_average_person,0.392
+2020-07-28,San Francisco,mobility_average_person,0.41700000000000004
+2020-07-29,San Francisco,mobility_average_person,0.461
+2020-07-30,San Francisco,mobility_average_person,0.45399999999999996
+2020-07-31,San Francisco,mobility_average_person,0.907
+2020-08-01,San Francisco,mobility_average_person,0.6809999999999999
+2020-08-02,San Francisco,mobility_average_person,0.073
+2020-08-03,San Francisco,mobility_average_person,0.48100000000000004
+2020-08-04,San Francisco,mobility_average_person,0.494
+2020-08-05,San Francisco,mobility_average_person,0.65
+2020-08-06,San Francisco,mobility_average_person,0.584
+2020-08-07,San Francisco,mobility_average_person,0.7609999999999999
+2020-08-08,San Francisco,mobility_average_person,0.8
+2020-08-09,San Francisco,mobility_average_person,0.245
+2020-08-10,San Francisco,mobility_average_person,0.389
+2020-08-11,San Francisco,mobility_average_person,0.5379999999999999
+2020-08-12,San Francisco,mobility_average_person,0.597
+2020-08-13,San Francisco,mobility_average_person,0.7020000000000001
+2020-08-14,San Francisco,mobility_average_person,0.852
+2020-08-15,San Francisco,mobility_average_person,1.011
+2020-08-16,San Francisco,mobility_average_person,0.068
+2020-08-17,San Francisco,mobility_average_person,0.33
+2020-08-18,San Francisco,mobility_average_person,0.7559999999999999
+2020-08-19,San Francisco,mobility_average_person,0.4270000000000001
+2020-08-20,San Francisco,mobility_average_person,0.622
+2020-08-21,San Francisco,mobility_average_person,1.114
+2020-08-22,San Francisco,mobility_average_person,0.907
+2020-08-23,San Francisco,mobility_average_person,0.228
+2020-08-24,San Francisco,mobility_average_person,0.583
+2020-08-25,San Francisco,mobility_average_person,0.603
+2020-08-26,San Francisco,mobility_average_person,0.41200000000000003
+2020-08-27,San Francisco,mobility_average_person,0.672
+2020-08-28,San Francisco,mobility_average_person,0.917
+2020-08-29,San Francisco,mobility_average_person,1.107
+2020-08-30,San Francisco,mobility_average_person,0.184
+2020-08-31,San Francisco,mobility_average_person,0.575
+2020-09-01,San Francisco,mobility_average_person,0.8270000000000001
+2020-09-02,San Francisco,mobility_average_person,0.9640000000000001
+2020-09-03,San Francisco,mobility_average_person,0.878
+2020-09-04,San Francisco,mobility_average_person,1.287
+2020-09-05,San Francisco,mobility_average_person,1.075
+2020-09-06,San Francisco,mobility_average_person,1.041
+2020-09-07,San Francisco,mobility_average_person,0.475
+2020-09-08,San Francisco,mobility_average_person,0.611
+2020-09-09,San Francisco,mobility_average_person,0.6629999999999999
+2020-09-10,San Francisco,mobility_average_person,0.536
+2020-09-11,San Francisco,mobility_average_person,0.71
+2020-09-12,San Francisco,mobility_average_person,0.629
+2020-09-13,San Francisco,mobility_average_person,0.172
+2020-09-14,San Francisco,mobility_average_person,0.767
+2020-09-15,San Francisco,mobility_average_person,0.5870000000000001
+2020-09-16,San Francisco,mobility_average_person,1.018
+2020-09-17,San Francisco,mobility_average_person,0.9179999999999999
+2020-09-18,San Francisco,mobility_average_person,1.518
+2020-09-19,San Francisco,mobility_average_person,1.396
+2020-09-20,San Francisco,mobility_average_person,0.7759999999999999
+2020-09-21,San Francisco,mobility_average_person,0.828
+2020-09-22,San Francisco,mobility_average_person,0.5539999999999999
+2020-09-23,San Francisco,mobility_average_person,0.841
+2020-09-24,San Francisco,mobility_average_person,0.9129999999999999
+2020-09-25,San Francisco,mobility_average_person,1.6119999999999999
+2020-09-26,San Francisco,mobility_average_person,1.473
+2020-09-27,San Francisco,mobility_average_person,0.657
+2020-09-28,San Francisco,mobility_average_person,0.696
+2020-09-29,San Francisco,mobility_average_person,1.1440000000000001
+2020-09-30,San Francisco,mobility_average_person,1.4180000000000001
+2020-10-01,San Francisco,mobility_average_person,2.174
+2020-10-02,San Francisco,mobility_average_person,1.838
+2020-10-03,San Francisco,mobility_average_person,1.324
+2020-10-04,San Francisco,mobility_average_person,0.516
+2020-10-05,San Francisco,mobility_average_person,1.05
+2020-10-06,San Francisco,mobility_average_person,0.8640000000000001
+2020-10-07,San Francisco,mobility_average_person,0.9470000000000001
+2020-10-09,San Francisco,mobility_average_person,1.364
+2020-10-10,San Francisco,mobility_average_person,1.24
+2020-10-11,San Francisco,mobility_average_person,0.846
+2020-10-12,San Francisco,mobility_average_person,0.759
+2020-10-13,San Francisco,mobility_average_person,0.84
+2020-10-14,San Francisco,mobility_average_person,1.018
+2020-10-15,San Francisco,mobility_average_person,1.236
+2020-10-16,San Francisco,mobility_average_person,1.319
+2020-10-17,San Francisco,mobility_average_person,1.65
+2020-10-18,San Francisco,mobility_average_person,0.787
+2020-10-19,San Francisco,mobility_average_person,1.014
+2020-10-20,San Francisco,mobility_average_person,0.941
+2020-10-21,San Francisco,mobility_average_person,0.968
+2020-10-22,San Francisco,mobility_average_person,1.228
+2020-10-23,San Francisco,mobility_average_person,1.538
+2020-10-24,San Francisco,mobility_average_person,1.449
+2020-10-25,San Francisco,mobility_average_person,0.65
+2020-10-26,San Francisco,mobility_average_person,0.8440000000000001
+2020-10-27,San Francisco,mobility_average_person,0.987
+2020-10-28,San Francisco,mobility_average_person,0.867
+2020-10-29,San Francisco,mobility_average_person,0.955
+2020-10-30,San Francisco,mobility_average_person,1.247
+2020-01-13,San Francisco,trn,100.0
+2020-01-14,San Francisco,trn,101.59
+2020-01-15,San Francisco,trn,104.05
+2020-01-16,San Francisco,trn,97.69
+2020-01-17,San Francisco,trn,115.19
+2020-01-18,San Francisco,trn,108.1
+2020-01-19,San Francisco,trn,92.83
+2020-01-20,San Francisco,trn,98.47
+2020-01-21,San Francisco,trn,108.29
+2020-01-22,San Francisco,trn,114.0
+2020-01-23,San Francisco,trn,113.35
+2020-01-24,San Francisco,trn,122.65
+2020-01-25,San Francisco,trn,112.84
+2020-01-26,San Francisco,trn,90.13
+2020-01-27,San Francisco,trn,107.83
+2020-01-28,San Francisco,trn,104.67
+2020-01-29,San Francisco,trn,108.54
+2020-01-30,San Francisco,trn,110.47
+2020-01-31,San Francisco,trn,122.26
+2020-02-01,San Francisco,trn,111.39
+2020-02-02,San Francisco,trn,87.44
+2020-02-03,San Francisco,trn,103.25
+2020-02-04,San Francisco,trn,106.6
+2020-02-05,San Francisco,trn,108.83
+2020-02-06,San Francisco,trn,112.99
+2020-02-07,San Francisco,trn,125.9
+2020-02-08,San Francisco,trn,121.33
+2020-02-09,San Francisco,trn,90.89
+2020-02-10,San Francisco,trn,108.49
+2020-02-11,San Francisco,trn,111.13
+2020-02-12,San Francisco,trn,112.76
+2020-02-13,San Francisco,trn,115.84
+2020-02-14,San Francisco,trn,129.3
+2020-02-15,San Francisco,trn,116.41
+2020-02-16,San Francisco,trn,99.89
+2020-02-17,San Francisco,trn,101.12
+2020-02-18,San Francisco,trn,111.35
+2020-02-19,San Francisco,trn,113.44
+2020-02-20,San Francisco,trn,116.27
+2020-02-21,San Francisco,trn,129.56
+2020-02-22,San Francisco,trn,120.02
+2020-02-23,San Francisco,trn,98.3
+2020-02-24,San Francisco,trn,108.15
+2020-02-25,San Francisco,trn,109.17
+2020-02-26,San Francisco,trn,113.6
+2020-02-27,San Francisco,trn,114.74
+2020-02-28,San Francisco,trn,123.34
+2020-02-29,San Francisco,trn,110.45
+2020-03-01,San Francisco,trn,88.94
+2020-03-02,San Francisco,trn,99.32
+2020-03-03,San Francisco,trn,103.16
+2020-03-04,San Francisco,trn,107.46
+2020-03-05,San Francisco,trn,104.42
+2020-03-06,San Francisco,trn,116.29
+2020-03-07,San Francisco,trn,93.85
+2020-03-08,San Francisco,trn,78.34
+2020-03-09,San Francisco,trn,95.86
+2020-03-10,San Francisco,trn,94.8
+2020-03-11,San Francisco,trn,91.52
+2020-03-12,San Francisco,trn,80.45
+2020-03-13,San Francisco,trn,79.75
+2020-03-14,San Francisco,trn,49.01
+2020-03-15,San Francisco,trn,42.38
+2020-03-16,San Francisco,trn,43.54
+2020-03-17,San Francisco,trn,28.09
+2020-03-18,San Francisco,trn,26.75
+2020-03-19,San Francisco,trn,27.13
+2020-03-20,San Francisco,trn,26.78
+2020-03-21,San Francisco,trn,18.94
+2020-03-22,San Francisco,trn,21.62
+2020-03-23,San Francisco,trn,24.92
+2020-03-24,San Francisco,trn,22.92
+2020-03-25,San Francisco,trn,23.28
+2020-03-26,San Francisco,trn,23.78
+2020-03-27,San Francisco,trn,21.86
+2020-03-28,San Francisco,trn,15.46
+2020-03-29,San Francisco,trn,17.89
+2020-03-30,San Francisco,trn,21.95
+2020-03-31,San Francisco,trn,22.88
+2020-04-01,San Francisco,trn,22.52
+2020-04-02,San Francisco,trn,21.29
+2020-04-03,San Francisco,trn,22.66
+2020-04-04,San Francisco,trn,14.8
+2020-04-05,San Francisco,trn,16.69
+2020-04-06,San Francisco,trn,19.14
+2020-04-07,San Francisco,trn,21.05
+2020-04-08,San Francisco,trn,19.83
+2020-04-09,San Francisco,trn,21.28
+2020-04-10,San Francisco,trn,19.61
+2020-04-11,San Francisco,trn,14.89
+2020-04-12,San Francisco,trn,15.92
+2020-04-13,San Francisco,trn,19.97
+2020-04-14,San Francisco,trn,19.16
+2020-04-15,San Francisco,trn,23.26
+2020-04-16,San Francisco,trn,21.01
+2020-04-17,San Francisco,trn,24.66
+2020-04-18,San Francisco,trn,14.62
+2020-04-19,San Francisco,trn,17.9
+2020-04-20,San Francisco,trn,19.63
+2020-04-21,San Francisco,trn,19.62
+2020-04-22,San Francisco,trn,20.46
+2020-04-23,San Francisco,trn,20.31
+2020-04-24,San Francisco,trn,21.32
+2020-04-25,San Francisco,trn,15.44
+2020-04-26,San Francisco,trn,17.05
+2020-04-27,San Francisco,trn,19.17
+2020-04-28,San Francisco,trn,21.23
+2020-04-29,San Francisco,trn,21.39
+2020-04-30,San Francisco,trn,21.31
+2020-05-01,San Francisco,trn,22.4
+2020-05-02,San Francisco,trn,16.75
+2020-05-03,San Francisco,trn,21.17
+2020-05-04,San Francisco,trn,22.91
+2020-05-05,San Francisco,trn,22.92
+2020-05-06,San Francisco,trn,23.03
+2020-05-07,San Francisco,trn,23.45
+2020-05-08,San Francisco,trn,24.06
+2020-05-09,San Francisco,trn,22.7
+2020-05-10,San Francisco,trn,18.61
+2020-05-11,San Francisco,trn,18.61
+2020-05-12,San Francisco,trn,18.61
+2020-05-13,San Francisco,trn,22.42
+2020-05-14,San Francisco,trn,22.81
+2020-05-15,San Francisco,trn,24.4
+2020-05-16,San Francisco,trn,19.21
+2020-05-17,San Francisco,trn,20.4
+2020-05-18,San Francisco,trn,24.1
+2020-05-19,San Francisco,trn,19.87
+2020-05-20,San Francisco,trn,23.3
+2020-05-21,San Francisco,trn,20.82
+2020-05-22,San Francisco,trn,24.93
+2020-05-23,San Francisco,trn,20.0
+2020-05-24,San Francisco,trn,22.6
+2020-05-25,San Francisco,trn,25.55
+2020-05-26,San Francisco,trn,27.53
+2020-05-27,San Francisco,trn,27.44
+2020-05-28,San Francisco,trn,26.77
+2020-05-29,San Francisco,trn,27.35
+2020-05-30,San Francisco,trn,20.15
+2020-05-31,San Francisco,trn,22.0
+2020-06-01,San Francisco,trn,27.64
+2020-06-02,San Francisco,trn,26.8
+2020-06-03,San Francisco,trn,30.03
+2020-06-04,San Francisco,trn,27.13
+2020-06-05,San Francisco,trn,28.01
+2020-06-06,San Francisco,trn,22.91
+2020-06-07,San Francisco,trn,25.2
+2020-06-08,San Francisco,trn,30.06
+2020-06-09,San Francisco,trn,30.61
+2020-06-10,San Francisco,trn,30.82
+2020-06-11,San Francisco,trn,31.27
+2020-06-12,San Francisco,trn,31.68
+2020-06-13,San Francisco,trn,26.75
+2020-06-14,San Francisco,trn,24.78
+2020-06-15,San Francisco,trn,32.5
+2020-06-16,San Francisco,trn,33.25
+2020-06-17,San Francisco,trn,32.2
+2020-06-18,San Francisco,trn,31.22
+2020-06-19,San Francisco,trn,34.65
+2020-06-20,San Francisco,trn,26.86
+2020-06-21,San Francisco,trn,26.47
+2020-06-22,San Francisco,trn,34.92
+2020-06-23,San Francisco,trn,33.35
+2020-06-24,San Francisco,trn,34.08
+2020-06-25,San Francisco,trn,29.96
+2020-06-26,San Francisco,trn,31.82
+2020-06-27,San Francisco,trn,28.32
+2020-06-28,San Francisco,trn,25.79
+2020-06-29,San Francisco,trn,34.1
+2020-06-30,San Francisco,trn,34.63
+2020-07-01,San Francisco,trn,36.22
+2020-07-02,San Francisco,trn,35.65
+2020-07-03,San Francisco,trn,34.27
+2020-07-04,San Francisco,trn,25.03
+2020-07-05,San Francisco,trn,29.14
+2020-07-06,San Francisco,trn,34.33
+2020-07-07,San Francisco,trn,36.17
+2020-07-08,San Francisco,trn,36.52
+2020-07-09,San Francisco,trn,35.68
+2020-07-10,San Francisco,trn,37.2
+2020-07-11,San Francisco,trn,29.77
+2020-07-12,San Francisco,trn,31.46
+2020-07-13,San Francisco,trn,34.73
+2020-07-14,San Francisco,trn,34.9
+2020-07-15,San Francisco,trn,34.51
+2020-07-16,San Francisco,trn,34.62
+2020-07-17,San Francisco,trn,35.98
+2020-07-18,San Francisco,trn,28.05
+2020-07-19,San Francisco,trn,29.2
+2020-07-20,San Francisco,trn,28.98
+2020-07-21,San Francisco,trn,34.55
+2020-07-22,San Francisco,trn,34.35
+2020-07-23,San Francisco,trn,31.15
+2020-07-24,San Francisco,trn,34.0
+2020-07-25,San Francisco,trn,29.19
+2020-07-26,San Francisco,trn,30.46
+2020-07-27,San Francisco,trn,34.3
+2020-07-28,San Francisco,trn,35.07
+2020-07-29,San Francisco,trn,34.71
+2020-07-30,San Francisco,trn,34.57
+2020-07-31,San Francisco,trn,34.76
+2020-08-01,San Francisco,trn,29.71
+2020-08-02,San Francisco,trn,29.87
+2020-08-03,San Francisco,trn,35.15
+2020-08-04,San Francisco,trn,34.41
+2020-08-05,San Francisco,trn,34.2
+2020-08-06,San Francisco,trn,37.02
+2020-08-07,San Francisco,trn,36.21
+2020-08-08,San Francisco,trn,29.86
+2020-08-09,San Francisco,trn,31.27
+2020-08-10,San Francisco,trn,34.9
+2020-08-11,San Francisco,trn,34.11
+2020-08-12,San Francisco,trn,35.57
+2020-08-13,San Francisco,trn,35.43
+2020-08-14,San Francisco,trn,38.35
+2020-08-15,San Francisco,trn,35.47
+2020-08-16,San Francisco,trn,30.52
+2020-08-17,San Francisco,trn,34.87
+2020-08-18,San Francisco,trn,36.02
+2020-08-19,San Francisco,trn,35.9
+2020-08-20,San Francisco,trn,34.75
+2020-08-21,San Francisco,trn,36.62
+2020-08-22,San Francisco,trn,32.25
+2020-08-23,San Francisco,trn,30.96
+2020-08-24,San Francisco,trn,35.19
+2020-08-25,San Francisco,trn,34.92
+2020-08-26,San Francisco,trn,35.07
+2020-08-27,San Francisco,trn,34.54
+2020-08-28,San Francisco,trn,36.68
+2020-08-29,San Francisco,trn,30.77
+2020-08-30,San Francisco,trn,31.84
+2020-08-31,San Francisco,trn,33.91
+2020-09-01,San Francisco,trn,34.39
+2020-09-02,San Francisco,trn,35.37
+2020-09-03,San Francisco,trn,35.37
+2020-09-04,San Francisco,trn,40.35
+2020-09-05,San Francisco,trn,34.71
+2020-09-06,San Francisco,trn,33.04
+2020-09-07,San Francisco,trn,33.77
+2020-09-08,San Francisco,trn,33.76
+2020-09-09,San Francisco,trn,30.04
+2020-09-10,San Francisco,trn,32.63
+2020-09-11,San Francisco,trn,33.96
+2020-09-12,San Francisco,trn,29.93
+2020-09-13,San Francisco,trn,28.27
+2020-09-14,San Francisco,trn,31.47
+2020-09-15,San Francisco,trn,32.73
+2020-09-16,San Francisco,trn,35.33
+2020-09-17,San Francisco,trn,35.98
+2020-09-18,San Francisco,trn,39.01
+2020-09-19,San Francisco,trn,36.42
+2020-09-20,San Francisco,trn,30.79
+2020-09-21,San Francisco,trn,33.97
+2020-09-22,San Francisco,trn,31.98
+2020-09-23,San Francisco,trn,33.48
+2020-09-24,San Francisco,trn,33.5
+2020-09-25,San Francisco,trn,36.48
+2020-09-26,San Francisco,trn,35.94
+2020-09-27,San Francisco,trn,31.21
+2020-09-28,San Francisco,trn,32.83
+2020-09-29,San Francisco,trn,34.15
+2020-09-30,San Francisco,trn,34.56
+2020-10-01,San Francisco,trn,36.59
+2020-10-02,San Francisco,trn,39.12
+2020-10-03,San Francisco,trn,36.44
+2020-10-04,San Francisco,trn,34.09
+2020-10-05,San Francisco,trn,34.83
+2020-10-06,San Francisco,trn,32.64
+2020-10-07,San Francisco,trn,38.88
+2020-10-08,San Francisco,trn,35.01
+2020-10-09,San Francisco,trn,39.29
+2020-10-10,San Francisco,trn,36.33
+2020-10-11,San Francisco,trn,35.44
+2020-10-12,San Francisco,trn,37.84
+2020-10-13,San Francisco,trn,36.41
+2020-10-14,San Francisco,trn,37.35
+2020-10-15,San Francisco,trn,37.83
+2020-10-16,San Francisco,trn,42.93
+2020-10-17,San Francisco,trn,39.27
+2020-10-18,San Francisco,trn,35.45
+2020-10-19,San Francisco,trn,36.25
+2020-10-20,San Francisco,trn,37.58
+2020-10-21,San Francisco,trn,36.15
+2020-10-22,San Francisco,trn,36.49
+2020-10-23,San Francisco,trn,41.28
+2020-10-24,San Francisco,trn,37.78
+2020-10-25,San Francisco,trn,34.3
+2020-10-26,San Francisco,trn,36.39
+2020-10-27,San Francisco,trn,33.69
+2020-10-28,San Francisco,trn,36.95
+2020-10-29,San Francisco,trn,36.46
+2020-10-30,San Francisco,trn,42.93
+2020-10-31,San Francisco,trn,37.49
+2020-11-01,San Francisco,trn,33.06
+2020-11-02,San Francisco,trn,35.01
+2020-11-03,San Francisco,trn,34.32
+2020-11-04,San Francisco,trn,34.33
+2020-11-05,San Francisco,trn,35.78
+2020-11-06,San Francisco,trn,37.87
+2020-11-07,San Francisco,trn,34.67
+2020-11-08,San Francisco,trn,31.31
+2020-11-09,San Francisco,trn,34.04
+2020-11-10,San Francisco,trn,32.43
+2020-11-11,San Francisco,trn,34.84
+2020-11-12,San Francisco,trn,30.54
+2020-11-13,San Francisco,trn,32.88
+2020-11-14,San Francisco,trn,34.06
+2020-11-15,San Francisco,trn,32.57
+2020-11-16,San Francisco,trn,35.42
+2020-11-17,San Francisco,trn,31.44
+2020-11-18,San Francisco,trn,33.91
+2020-11-19,San Francisco,trn,36.35
+2020-11-20,San Francisco,trn,36.52
+2020-11-21,San Francisco,trn,31.24
+2020-11-22,San Francisco,trn,30.63
+2020-11-23,San Francisco,trn,35.08
+2020-11-24,San Francisco,trn,35.89
+2020-11-25,San Francisco,trn,34.9
+2020-11-26,San Francisco,trn,22.23
+2020-11-27,San Francisco,trn,30.0
+2020-11-28,San Francisco,trn,28.43
+2020-11-29,San Francisco,trn,25.4
+2020-11-30,San Francisco,trn,32.32
+2020-12-01,San Francisco,trn,31.9
+2020-12-02,San Francisco,trn,32.47
+2020-12-03,San Francisco,trn,31.45
+2020-12-04,San Francisco,trn,31.9
+2020-12-05,San Francisco,trn,28.83
+2020-12-06,San Francisco,trn,23.95
+2020-12-07,San Francisco,trn,32.63
+2020-12-08,San Francisco,trn,30.04
+2020-12-09,San Francisco,trn,30.49
+2020-12-10,San Francisco,trn,29.06
+2020-12-11,San Francisco,trn,29.79
+2020-12-12,San Francisco,trn,25.19
+2020-12-13,San Francisco,trn,23.18
+2020-12-14,San Francisco,trn,32.19
+2020-12-15,San Francisco,trn,29.06
+2020-12-16,San Francisco,trn,30.1
+2020-12-17,San Francisco,trn,29.66
+2020-12-18,San Francisco,trn,30.97
+2020-12-19,San Francisco,trn,25.3
+2020-12-20,San Francisco,trn,26.47
+2020-12-21,San Francisco,trn,28.23
+2020-12-22,San Francisco,trn,27.84
+2020-12-23,San Francisco,trn,29.53
+2020-12-24,San Francisco,trn,24.19
+2020-12-25,San Francisco,trn,16.6
+2020-12-26,San Francisco,trn,22.31
+2020-12-27,San Francisco,trn,25.07
+2020-12-28,San Francisco,trn,28.77
+2020-12-29,San Francisco,trn,29.24
+2020-12-30,San Francisco,trn,28.61
+2020-12-31,San Francisco,trn,25.89
+2021-01-01,San Francisco,trn,22.29
+2021-01-02,San Francisco,trn,21.92
+2021-01-03,San Francisco,trn,24.82
+2021-01-04,San Francisco,trn,28.13
+2021-01-05,San Francisco,trn,30.37
+2021-01-06,San Francisco,trn,27.93
+2020-01-13,,drv,100.0
+2020-01-14,,drv,104.21
+2020-01-15,,drv,106.18
+2020-01-16,,drv,106.36
+2020-01-17,,drv,122.64
+2020-01-18,,drv,113.41
+2020-01-19,,drv,88.8
+2020-01-20,,drv,93.39
+2020-01-21,,drv,104.98
+2020-01-22,,drv,107.24
+2020-01-23,,drv,107.3
+2020-01-24,,drv,119.47
+2020-01-25,,drv,109.95
+2020-01-26,,drv,83.02
+2020-01-27,,drv,95.83
+2020-01-28,,drv,101.08
+2020-01-29,,drv,102.55
+2020-01-30,,drv,107.28
+2020-01-31,,drv,119.84
+2020-02-01,,drv,109.55
+2020-02-02,,drv,77.61
+2020-02-03,,drv,95.55
+2020-02-04,,drv,100.86
+2020-02-05,,drv,102.7
+2020-02-06,,drv,109.42
+2020-02-07,,drv,121.05
+2020-02-08,,drv,115.31
+2020-02-09,,drv,89.9
+2020-02-10,,drv,101.77
+2020-02-11,,drv,106.75
+2020-02-12,,drv,109.2
+2020-02-13,,drv,118.5
+2020-02-14,,drv,134.38
+2020-02-15,,drv,115.94
+2020-02-16,,drv,95.72
+2020-02-17,,drv,95.19
+2020-02-18,,drv,107.0
+2020-02-19,,drv,105.28
+2020-02-20,,drv,109.61
+2020-02-21,,drv,124.77
+2020-02-22,,drv,118.74
+2020-02-23,,drv,94.03
+2020-02-24,,drv,104.88
+2020-02-25,,drv,109.28
+2020-02-26,,drv,112.69
+2020-02-27,,drv,114.39
+2020-02-28,,drv,125.81
+2020-02-29,,drv,115.27
+2020-03-01,,drv,87.81
+2020-03-02,,drv,100.86
+2020-03-03,,drv,109.23
+2020-03-04,,drv,105.44
+2020-03-05,,drv,108.4
+2020-03-06,,drv,116.44
+2020-03-07,,drv,102.73
+2020-03-08,,drv,79.26
+2020-03-09,,drv,91.22
+2020-03-10,,drv,94.67
+2020-03-11,,drv,93.93
+2020-03-12,,drv,90.38
+2020-03-13,,drv,93.48
+2020-03-14,,drv,69.17
+2020-03-15,,drv,51.49
+2020-03-16,,drv,69.85
+2020-03-17,,drv,44.76
+2020-03-18,,drv,42.72
+2020-03-19,,drv,43.76
+2020-03-20,,drv,45.92
+2020-03-21,,drv,37.88
+2020-03-22,,drv,30.67
+2020-03-23,,drv,37.39
+2020-03-24,,drv,37.15
+2020-03-25,,drv,38.41
+2020-03-26,,drv,39.16
+2020-03-27,,drv,42.68
+2020-03-28,,drv,34.93
+2020-03-29,,drv,29.66
+2020-03-30,,drv,38.06
+2020-03-31,,drv,39.25
+2020-04-01,,drv,39.29
+2020-04-02,,drv,38.93
+2020-04-03,,drv,44.4
+2020-04-04,,drv,35.34
+2020-04-05,,drv,27.59
+2020-04-06,,drv,34.63
+2020-04-07,,drv,38.93
+2020-04-08,,drv,38.93
+2020-04-09,,drv,39.43
+2020-04-10,,drv,45.52
+2020-04-11,,drv,40.02
+2020-04-12,,drv,29.96
+2020-04-13,,drv,38.61
+2020-04-14,,drv,40.59
+2020-04-15,,drv,42.78
+2020-04-16,,drv,41.5
+2020-04-17,,drv,47.14
+2020-04-18,,drv,44.38
+2020-04-19,,drv,36.64
+2020-04-20,,drv,41.83
+2020-04-21,,drv,42.24
+2020-04-22,,drv,44.12
+2020-04-23,,drv,45.68
+2020-04-24,,drv,52.35
+2020-04-25,,drv,48.69
+2020-04-26,,drv,39.91
+2020-04-27,,drv,44.63
+2020-04-28,,drv,46.78
+2020-04-29,,drv,46.9
+2020-04-30,,drv,49.1
+2020-05-01,,drv,56.59
+2020-05-02,,drv,52.03
+2020-05-03,,drv,44.28
+2020-05-04,,drv,49.53
+2020-05-05,,drv,53.27
+2020-05-06,,drv,53.2
+2020-05-07,,drv,55.21
+2020-05-08,,drv,63.3
+2020-05-09,,drv,59.81
+2020-05-10,,drv,48.58
+2020-05-11,,drv,48.58
+2020-05-12,,drv,48.58
+2020-05-13,,drv,57.35
+2020-05-14,,drv,59.42
+2020-05-15,,drv,70.27
+2020-05-16,,drv,66.47
+2020-05-17,,drv,51.34
+2020-05-18,,drv,58.65
+2020-05-19,,drv,63.23
+2020-05-20,,drv,66.01
+2020-05-21,,drv,68.55
+2020-05-22,,drv,79.29
+2020-05-23,,drv,73.39
+2020-05-24,,drv,64.59
+2020-05-25,,drv,62.92
+2020-05-26,,drv,70.45
+2020-05-27,,drv,72.05
+2020-05-28,,drv,72.5
+2020-05-29,,drv,83.84
+2020-05-30,,drv,71.78
+2020-05-31,,drv,62.33
+2020-06-01,,drv,68.87
+2020-06-02,,drv,68.32
+2020-06-03,,drv,73.61
+2020-06-04,,drv,74.63
+2020-06-05,,drv,83.85
+2020-06-06,,drv,79.21
+2020-06-07,,drv,65.75
+2020-06-08,,drv,75.13
+2020-06-09,,drv,78.4
+2020-06-10,,drv,80.09
+2020-06-11,,drv,81.59
+2020-06-12,,drv,91.34
+2020-06-13,,drv,86.14
+2020-06-14,,drv,72.77
+2020-06-15,,drv,79.06
+2020-06-16,,drv,81.97
+2020-06-17,,drv,84.56
+2020-06-18,,drv,88.82
+2020-06-19,,drv,102.89
+2020-06-20,,drv,91.05
+2020-06-21,,drv,71.0
+2020-06-22,,drv,82.48
+2020-06-23,,drv,86.46
+2020-06-24,,drv,88.55
+2020-06-25,,drv,89.86
+2020-06-26,,drv,100.45
+2020-06-27,,drv,93.91
+2020-06-28,,drv,77.58
+2020-06-29,,drv,86.67
+2020-06-30,,drv,89.98
+2020-07-01,,drv,93.83
+2020-07-02,,drv,97.92
+2020-07-03,,drv,93.67
+2020-07-04,,drv,70.18
+2020-07-05,,drv,70.27
+2020-07-06,,drv,84.27
+2020-07-07,,drv,86.9
+2020-07-08,,drv,88.84
+2020-07-09,,drv,90.89
+2020-07-10,,drv,101.17
+2020-07-11,,drv,95.5
+2020-07-12,,drv,79.96
+2020-07-13,,drv,85.95
+2020-07-14,,drv,88.58
+2020-07-15,,drv,89.53
+2020-07-16,,drv,90.41
+2020-07-17,,drv,102.35
+2020-07-18,,drv,94.34
+2020-07-19,,drv,79.07
+2020-07-20,,drv,84.68
+2020-07-21,,drv,87.82
+2020-07-22,,drv,89.88
+2020-07-23,,drv,91.85
+2020-07-24,,drv,102.87
+2020-07-25,,drv,96.65
+2020-07-26,,drv,80.32
+2020-07-27,,drv,86.52
+2020-07-28,,drv,90.76
+2020-07-29,,drv,92.43
+2020-07-30,,drv,94.53
+2020-07-31,,drv,107.65
+2020-08-01,,drv,99.75
+2020-08-02,,drv,82.75
+2020-08-03,,drv,91.89
+2020-08-04,,drv,91.33
+2020-08-05,,drv,90.8
+2020-08-06,,drv,95.87
+2020-08-07,,drv,108.83
+2020-08-08,,drv,100.83
+2020-08-09,,drv,84.88
+2020-08-10,,drv,90.18
+2020-08-11,,drv,93.08
+2020-08-12,,drv,93.52
+2020-08-13,,drv,96.88
+2020-08-14,,drv,114.3
+2020-08-15,,drv,111.81
+2020-08-16,,drv,84.76
+2020-08-17,,drv,91.77
+2020-08-18,,drv,94.44
+2020-08-19,,drv,96.25
+2020-08-20,,drv,95.35
+2020-08-21,,drv,108.12
+2020-08-22,,drv,100.49
+2020-08-23,,drv,79.35
+2020-08-24,,drv,86.98
+2020-08-25,,drv,88.02
+2020-08-26,,drv,90.05
+2020-08-27,,drv,91.95
+2020-08-28,,drv,105.27
+2020-08-29,,drv,98.83
+2020-08-30,,drv,81.98
+2020-08-31,,drv,85.97
+2020-09-01,,drv,87.91
+2020-09-02,,drv,91.62
+2020-09-03,,drv,94.17
+2020-09-04,,drv,110.81
+2020-09-05,,drv,104.81
+2020-09-06,,drv,96.33
+2020-09-07,,drv,86.17
+2020-09-08,,drv,86.95
+2020-09-09,,drv,85.76
+2020-09-10,,drv,86.96
+2020-09-11,,drv,99.11
+2020-09-12,,drv,92.04
+2020-09-13,,drv,72.77
+2020-09-14,,drv,82.87
+2020-09-15,,drv,86.64
+2020-09-16,,drv,92.03
+2020-09-17,,drv,93.04
+2020-09-18,,drv,107.43
+2020-09-19,,drv,104.2
+2020-09-20,,drv,81.0
+2020-09-21,,drv,83.6
+2020-09-22,,drv,86.03
+2020-09-23,,drv,89.33
+2020-09-24,,drv,90.46
+2020-09-25,,drv,107.72
+2020-09-26,,drv,102.5
+2020-09-27,,drv,82.14
+2020-09-28,,drv,83.6
+2020-09-29,,drv,84.85
+2020-09-30,,drv,89.37
+2020-10-01,,drv,87.89
+2020-10-02,,drv,101.13
+2020-10-03,,drv,97.54
+2020-10-04,,drv,77.88
+2020-10-05,,drv,81.05
+2020-10-06,,drv,83.14
+2020-10-07,,drv,85.9
+2020-10-08,,drv,87.32
+2020-10-09,,drv,103.7
+2020-10-10,,drv,97.54
+2020-10-11,,drv,79.48
+2020-10-12,,drv,85.0
+2020-10-13,,drv,84.63
+2020-10-14,,drv,88.47
+2020-10-15,,drv,91.3
+2020-10-16,,drv,108.72
+2020-10-17,,drv,103.99
+2020-10-18,,drv,80.16
+2020-10-19,,drv,82.12
+2020-10-20,,drv,85.12
+2020-10-21,,drv,87.44
+2020-10-22,,drv,88.48
+2020-10-23,,drv,105.19
+2020-10-24,,drv,100.68
+2020-10-25,,drv,78.58
+2020-10-26,,drv,81.51
+2020-10-27,,drv,85.43
+2020-10-28,,drv,86.4
+2020-10-29,,drv,89.54
+2020-10-30,,drv,104.58
+2020-10-31,,drv,94.41
+2020-11-01,,drv,73.44
+2020-11-02,,drv,79.71
+2020-11-03,,drv,80.63
+2020-11-04,,drv,76.89
+2020-11-05,,drv,80.4
+2020-11-06,,drv,92.34
+2020-11-07,,drv,88.97
+2020-11-08,,drv,68.54
+2020-11-09,,drv,74.33
+2020-11-10,,drv,78.82
+2020-11-11,,drv,83.63
+2020-11-12,,drv,74.43
+2020-11-13,,drv,91.01
+2020-11-14,,drv,86.67
+2020-11-15,,drv,70.2
+2020-11-16,,drv,75.99
+2020-11-17,,drv,75.02
+2020-11-18,,drv,77.03
+2020-11-19,,drv,80.53
+2020-11-20,,drv,94.32
+2020-11-21,,drv,84.08
+2020-11-22,,drv,67.06
+2020-11-23,,drv,81.45
+2020-11-24,,drv,87.0
+2020-11-25,,drv,92.13
+2020-11-26,,drv,43.61
+2020-11-27,,drv,70.1
+2020-11-28,,drv,72.87
+2020-11-29,,drv,61.99
+2020-11-30,,drv,73.38
+2020-12-01,,drv,75.07
+2020-12-02,,drv,75.99
+2020-12-03,,drv,76.3
+2020-12-04,,drv,87.45
+2020-12-05,,drv,84.08
+2020-12-06,,drv,62.84
+2020-12-07,,drv,70.51
+2020-12-08,,drv,72.21
+2020-12-09,,drv,73.28
+2020-12-10,,drv,74.21
+2020-12-11,,drv,82.98
+2020-12-12,,drv,74.67
+2020-12-13,,drv,55.7
+2020-12-14,,drv,71.77
+2020-12-15,,drv,74.3
+2020-12-16,,drv,77.02
+2020-12-17,,drv,78.24
+2020-12-18,,drv,88.42
+2020-12-19,,drv,79.37
+2020-12-20,,drv,65.88
+2020-12-21,,drv,82.23
+2020-12-22,,drv,85.47
+2020-12-23,,drv,93.37
+2020-12-24,,drv,69.78
+2020-12-25,,drv,35.34
+2020-12-26,,drv,61.88
+2020-12-27,,drv,58.03
+2020-12-28,,drv,72.15
+2020-12-29,,drv,77.32
+2020-12-30,,drv,80.88
+2020-12-31,,drv,75.38
+2021-01-01,,drv,55.04
+2021-01-02,,drv,63.89
+2021-01-03,,drv,57.46
+2021-01-04,,drv,66.38
+2021-01-05,,drv,70.75
+2021-01-06,,drv,68.88
+2020-01-13,,wlk,100.0
+2020-01-14,,wlk,106.46
+2020-01-15,,wlk,98.83
+2020-01-16,,wlk,74.53
+2020-01-17,,wlk,99.76
+2020-01-18,,wlk,119.78
+2020-01-19,,wlk,90.66
+2020-01-20,,wlk,80.92
+2020-01-21,,wlk,81.42
+2020-01-22,,wlk,90.81
+2020-01-23,,wlk,89.39
+2020-01-24,,wlk,103.58
+2020-01-25,,wlk,116.24
+2020-01-26,,wlk,76.52
+2020-01-27,,wlk,76.55
+2020-01-28,,wlk,79.07
+2020-01-29,,wlk,82.47
+2020-01-30,,wlk,85.66
+2020-01-31,,wlk,99.37
+2020-02-01,,wlk,108.14
+2020-02-02,,wlk,70.82
+2020-02-03,,wlk,73.24
+2020-02-04,,wlk,79.4
+2020-02-05,,wlk,83.19
+2020-02-06,,wlk,86.51
+2020-02-07,,wlk,102.05
+2020-02-08,,wlk,122.9
+2020-02-09,,wlk,78.99
+2020-02-10,,wlk,79.96
+2020-02-11,,wlk,85.72
+2020-02-12,,wlk,88.49
+2020-02-13,,wlk,93.38
+2020-02-14,,wlk,118.9
+2020-02-15,,wlk,130.79
+2020-02-16,,wlk,100.59
+2020-02-17,,wlk,81.2
+2020-02-18,,wlk,81.12
+2020-02-19,,wlk,84.93
+2020-02-20,,wlk,91.9
+2020-02-21,,wlk,109.06
+2020-02-22,,wlk,118.27
+2020-02-23,,wlk,89.75
+2020-02-24,,wlk,88.22
+2020-02-25,,wlk,95.27
+2020-02-26,,wlk,96.45
+2020-02-27,,wlk,94.8
+2020-02-28,,wlk,105.12
+2020-02-29,,wlk,108.7
+2020-03-01,,wlk,77.06
+2020-03-02,,wlk,75.15
+2020-03-03,,wlk,85.04
+2020-03-04,,wlk,80.68
+2020-03-05,,wlk,81.73
+2020-03-06,,wlk,92.69
+2020-03-07,,wlk,92.65
+2020-03-08,,wlk,67.85
+2020-03-09,,wlk,66.15
+2020-03-10,,wlk,67.89
+2020-03-11,,wlk,66.96
+2020-03-12,,wlk,62.35
+2020-03-13,,wlk,63.71
+2020-03-14,,wlk,48.78
+2020-03-15,,wlk,35.14
+2020-03-16,,wlk,39.44
+2020-03-17,,wlk,25.78
+2020-03-18,,wlk,25.78
+2020-03-19,,wlk,27.83
+2020-03-20,,wlk,28.39
+2020-03-21,,wlk,26.27
+2020-03-22,,wlk,21.91
+2020-03-23,,wlk,22.5
+2020-03-24,,wlk,20.91
+2020-03-25,,wlk,24.0
+2020-03-26,,wlk,24.44
+2020-03-27,,wlk,25.93
+2020-03-28,,wlk,21.85
+2020-03-29,,wlk,20.15
+2020-03-30,,wlk,24.66
+2020-03-31,,wlk,25.59
+2020-04-01,,wlk,25.83
+2020-04-02,,wlk,24.99
+2020-04-03,,wlk,27.75
+2020-04-04,,wlk,20.44
+2020-04-05,,wlk,16.31
+2020-04-06,,wlk,19.16
+2020-04-07,,wlk,25.61
+2020-04-08,,wlk,24.79
+2020-04-09,,wlk,24.72
+2020-04-10,,wlk,28.58
+2020-04-11,,wlk,27.43
+2020-04-12,,wlk,20.97
+2020-04-13,,wlk,25.61
+2020-04-14,,wlk,27.83
+2020-04-15,,wlk,27.39
+2020-04-16,,wlk,25.68
+2020-04-17,,wlk,27.78
+2020-04-18,,wlk,30.59
+2020-04-19,,wlk,25.29
+2020-04-20,,wlk,25.81
+2020-04-21,,wlk,26.95
+2020-04-22,,wlk,28.35
+2020-04-23,,wlk,29.0
+2020-04-24,,wlk,33.09
+2020-04-25,,wlk,33.26
+2020-04-26,,wlk,27.06
+2020-04-27,,wlk,27.72
+2020-04-28,,wlk,30.07
+2020-04-29,,wlk,28.37
+2020-04-30,,wlk,29.65
+2020-05-01,,wlk,34.55
+2020-05-02,,wlk,34.72
+2020-05-03,,wlk,30.92
+2020-05-04,,wlk,30.41
+2020-05-05,,wlk,32.33
+2020-05-06,,wlk,32.98
+2020-05-07,,wlk,33.8
+2020-05-08,,wlk,38.05
+2020-05-09,,wlk,38.82
+2020-05-10,,wlk,30.53
+2020-05-11,,wlk,30.53
+2020-05-12,,wlk,30.53
+2020-05-13,,wlk,36.69
+2020-05-14,,wlk,37.63
+2020-05-15,,wlk,47.14
+2020-05-16,,wlk,47.98
+2020-05-17,,wlk,35.68
+2020-05-18,,wlk,38.87
+2020-05-19,,wlk,42.09
+2020-05-20,,wlk,43.7
+2020-05-21,,wlk,44.95
+2020-05-22,,wlk,52.46
+2020-05-23,,wlk,53.23
+2020-05-24,,wlk,45.08
+2020-05-25,,wlk,43.73
+2020-05-26,,wlk,46.13
+2020-05-27,,wlk,47.16
+2020-05-28,,wlk,47.27
+2020-05-29,,wlk,54.73
+2020-05-30,,wlk,51.25
+2020-05-31,,wlk,43.36
+2020-06-01,,wlk,46.48
+2020-06-02,,wlk,44.7
+2020-06-03,,wlk,55.98
+2020-06-04,,wlk,49.69
+2020-06-05,,wlk,55.65
+2020-06-06,,wlk,57.06
+2020-06-07,,wlk,46.93
+2020-06-08,,wlk,49.19
+2020-06-09,,wlk,52.13
+2020-06-10,,wlk,52.37
+2020-06-11,,wlk,53.29
+2020-06-12,,wlk,59.23
+2020-06-13,,wlk,61.44
+2020-06-14,,wlk,49.62
+2020-06-15,,wlk,51.1
+2020-06-16,,wlk,55.0
+2020-06-17,,wlk,55.97
+2020-06-18,,wlk,57.73
+2020-06-19,,wlk,71.99
+2020-06-20,,wlk,61.93
+2020-06-21,,wlk,46.5
+2020-06-22,,wlk,54.56
+2020-06-23,,wlk,57.95
+2020-06-24,,wlk,58.41
+2020-06-25,,wlk,59.83
+2020-06-26,,wlk,66.69
+2020-06-27,,wlk,64.26
+2020-06-28,,wlk,54.68
+2020-06-29,,wlk,57.44
+2020-06-30,,wlk,59.19
+2020-07-01,,wlk,60.27
+2020-07-02,,wlk,62.33
+2020-07-03,,wlk,64.02
+2020-07-04,,wlk,53.14
+2020-07-05,,wlk,49.64
+2020-07-06,,wlk,56.24
+2020-07-07,,wlk,59.15
+2020-07-08,,wlk,60.81
+2020-07-09,,wlk,61.73
+2020-07-10,,wlk,68.45
+2020-07-11,,wlk,69.04
+2020-07-12,,wlk,57.55
+2020-07-13,,wlk,57.61
+2020-07-14,,wlk,60.82
+2020-07-15,,wlk,60.76
+2020-07-16,,wlk,60.25
+2020-07-17,,wlk,69.76
+2020-07-18,,wlk,66.74
+2020-07-19,,wlk,54.96
+2020-07-20,,wlk,57.57
+2020-07-21,,wlk,59.59
+2020-07-22,,wlk,61.58
+2020-07-23,,wlk,61.31
+2020-07-24,,wlk,68.12
+2020-07-25,,wlk,68.88
+2020-07-26,,wlk,56.14
+2020-07-27,,wlk,58.0
+2020-07-28,,wlk,60.38
+2020-07-29,,wlk,62.54
+2020-07-30,,wlk,62.36
+2020-07-31,,wlk,71.6
+2020-08-01,,wlk,70.33
+2020-08-02,,wlk,57.55
+2020-08-03,,wlk,59.56
+2020-08-04,,wlk,61.0
+2020-08-05,,wlk,60.7
+2020-08-06,,wlk,65.01
+2020-08-07,,wlk,74.03
+2020-08-08,,wlk,74.03
+2020-08-09,,wlk,60.36
+2020-08-10,,wlk,61.07
+2020-08-11,,wlk,63.22
+2020-08-12,,wlk,64.13
+2020-08-13,,wlk,65.42
+2020-08-14,,wlk,77.93
+2020-08-15,,wlk,80.87
+2020-08-16,,wlk,59.14
+2020-08-17,,wlk,60.89
+2020-08-18,,wlk,64.9
+2020-08-19,,wlk,62.73
+2020-08-20,,wlk,65.58
+2020-08-21,,wlk,77.49
+2020-08-22,,wlk,79.25
+2020-08-23,,wlk,59.98
+2020-08-24,,wlk,61.26
+2020-08-25,,wlk,63.44
+2020-08-26,,wlk,64.2
+2020-08-27,,wlk,65.01
+2020-08-28,,wlk,74.57
+2020-08-29,,wlk,76.58
+2020-08-30,,wlk,61.5
+2020-08-31,,wlk,58.54
+2020-09-01,,wlk,62.07
+2020-09-02,,wlk,64.23
+2020-09-03,,wlk,65.57
+2020-09-04,,wlk,79.35
+2020-09-05,,wlk,85.52
+2020-09-06,,wlk,73.95
+2020-09-07,,wlk,61.98
+2020-09-08,,wlk,59.66
+2020-09-09,,wlk,57.16
+2020-09-10,,wlk,58.85
+2020-09-11,,wlk,69.68
+2020-09-12,,wlk,67.56
+2020-09-13,,wlk,52.87
+2020-09-14,,wlk,56.65
+2020-09-15,,wlk,60.65
+2020-09-16,,wlk,65.54
+2020-09-17,,wlk,66.13
+2020-09-18,,wlk,78.0
+2020-09-19,,wlk,83.2
+2020-09-20,,wlk,62.55
+2020-09-21,,wlk,59.47
+2020-09-22,,wlk,62.47
+2020-09-23,,wlk,64.06
+2020-09-24,,wlk,63.48
+2020-09-25,,wlk,77.97
+2020-09-26,,wlk,83.94
+2020-09-27,,wlk,63.74
+2020-09-28,,wlk,58.11
+2020-09-29,,wlk,59.83
+2020-09-30,,wlk,61.13
+2020-10-01,,wlk,60.91
+2020-10-02,,wlk,70.53
+2020-10-03,,wlk,77.76
+2020-10-04,,wlk,60.35
+2020-10-05,,wlk,55.33
+2020-10-06,,wlk,57.88
+2020-10-07,,wlk,58.83
+2020-10-08,,wlk,59.83
+2020-10-09,,wlk,74.06
+2020-10-10,,wlk,79.76
+2020-10-11,,wlk,64.04
+2020-10-12,,wlk,59.97
+2020-10-13,,wlk,60.46
+2020-10-14,,wlk,62.79
+2020-10-15,,wlk,64.76
+2020-10-16,,wlk,78.36
+2020-10-17,,wlk,86.35
+2020-10-18,,wlk,63.7
+2020-10-19,,wlk,58.4
+2020-10-20,,wlk,61.19
+2020-10-21,,wlk,62.41
+2020-10-22,,wlk,61.4
+2020-10-23,,wlk,77.21
+2020-10-24,,wlk,81.21
+2020-10-25,,wlk,60.58
+2020-10-26,,wlk,57.61
+2020-10-27,,wlk,59.78
+2020-10-28,,wlk,60.2
+2020-10-29,,wlk,62.51
+2020-10-30,,wlk,76.02
+2020-10-31,,wlk,79.83
+2020-11-01,,wlk,58.27
+2020-11-02,,wlk,56.65
+2020-11-03,,wlk,60.24
+2020-11-04,,wlk,54.95
+2020-11-05,,wlk,57.94
+2020-11-06,,wlk,68.8
+2020-11-07,,wlk,75.58
+2020-11-08,,wlk,53.3
+2020-11-09,,wlk,53.07
+2020-11-10,,wlk,56.67
+2020-11-11,,wlk,61.22
+2020-11-12,,wlk,52.32
+2020-11-13,,wlk,65.2
+2020-11-14,,wlk,73.28
+2020-11-15,,wlk,56.31
+2020-11-16,,wlk,55.04
+2020-11-17,,wlk,50.91
+2020-11-18,,wlk,54.56
+2020-11-19,,wlk,57.22
+2020-11-20,,wlk,68.33
+2020-11-21,,wlk,66.45
+2020-11-22,,wlk,51.87
+2020-11-23,,wlk,57.66
+2020-11-24,,wlk,61.56
+2020-11-25,,wlk,63.09
+2020-11-26,,wlk,29.35
+2020-11-27,,wlk,55.37
+2020-11-28,,wlk,59.91
+2020-11-29,,wlk,47.14
+2020-11-30,,wlk,52.33
+2020-12-01,,wlk,56.06
+2020-12-02,,wlk,57.05
+2020-12-03,,wlk,56.1
+2020-12-04,,wlk,65.57
+2020-12-05,,wlk,66.89
+2020-12-06,,wlk,49.05
+2020-12-07,,wlk,51.49
+2020-12-08,,wlk,55.06
+2020-12-09,,wlk,54.97
+2020-12-10,,wlk,54.37
+2020-12-11,,wlk,60.41
+2020-12-12,,wlk,57.86
+2020-12-13,,wlk,40.12
+2020-12-14,,wlk,52.7
+2020-12-15,,wlk,54.27
+2020-12-16,,wlk,56.09
+2020-12-17,,wlk,55.56
+2020-12-18,,wlk,63.05
+2020-12-19,,wlk,60.63
+2020-12-20,,wlk,48.46
+2020-12-21,,wlk,57.54
+2020-12-22,,wlk,59.53
+2020-12-23,,wlk,61.22
+2020-12-24,,wlk,46.5
+2020-12-25,,wlk,22.82
+2020-12-26,,wlk,45.27
+2020-12-27,,wlk,42.29
+2020-12-28,,wlk,50.78
+2020-12-29,,wlk,55.44
+2020-12-30,,wlk,56.32
+2020-12-31,,wlk,53.37
+2021-01-01,,wlk,41.93
+2021-01-02,,wlk,46.0
+2021-01-03,,wlk,42.63
+2021-01-04,,wlk,48.37
+2021-01-05,,wlk,52.04
+2021-01-06,,wlk,50.3

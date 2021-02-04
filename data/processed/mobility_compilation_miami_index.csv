@@ -1,0 +1,1563 @@
+date,location,src,value
+2020-03-01,Miami,indexed regular member,68.0
+2020-03-02,Miami,indexed regular member,99.0
+2020-03-03,Miami,indexed regular member,98.0
+2020-03-04,Miami,indexed regular member,99.0
+2020-03-05,Miami,indexed regular member,104.0
+2020-03-06,Miami,indexed regular member,109.0
+2020-03-07,Miami,indexed regular member,93.0
+2020-03-08,Miami,indexed regular member,64.0
+2020-03-09,Miami,indexed regular member,96.0
+2020-03-10,Miami,indexed regular member,97.0
+2020-03-11,Miami,indexed regular member,99.0
+2020-03-12,Miami,indexed regular member,97.0
+2020-03-13,Miami,indexed regular member,95.0
+2020-03-14,Miami,indexed regular member,67.0
+2020-03-15,Miami,indexed regular member,41.0
+2020-03-16,Miami,indexed regular member,68.0
+2020-03-17,Miami,indexed regular member,56.0
+2020-03-18,Miami,indexed regular member,44.0
+2020-03-19,Miami,indexed regular member,43.0
+2020-03-20,Miami,indexed regular member,49.0
+2020-03-21,Miami,indexed regular member,15.0
+2020-03-22,Miami,indexed regular member,3.0
+2020-03-23,Miami,indexed regular member,17.0
+2020-03-24,Miami,indexed regular member,13.0
+2020-03-25,Miami,indexed regular member,11.0
+2020-03-26,Miami,indexed regular member,9.0
+2020-03-27,Miami,indexed regular member,10.0
+2020-03-28,Miami,indexed regular member,0.0
+2020-03-29,Miami,indexed regular member,0.0
+2020-03-30,Miami,indexed regular member,4.0
+2020-03-31,Miami,indexed regular member,5.0
+2020-04-01,Miami,indexed regular member,5.0
+2020-04-02,Miami,indexed regular member,7.0
+2020-04-03,Miami,indexed regular member,7.0
+2020-04-04,Miami,indexed regular member,1.0
+2020-04-05,Miami,indexed regular member,0.0
+2020-04-06,Miami,indexed regular member,2.0
+2020-04-07,Miami,indexed regular member,3.0
+2020-04-08,Miami,indexed regular member,3.0
+2020-04-09,Miami,indexed regular member,4.0
+2020-04-10,Miami,indexed regular member,7.0
+2020-04-11,Miami,indexed regular member,0.0
+2020-04-12,Miami,indexed regular member,0.0
+2020-04-13,Miami,indexed regular member,5.0
+2020-04-14,Miami,indexed regular member,4.0
+2020-04-15,Miami,indexed regular member,7.0
+2020-04-16,Miami,indexed regular member,8.0
+2020-04-17,Miami,indexed regular member,16.0
+2020-04-18,Miami,indexed regular member,4.0
+2020-04-19,Miami,indexed regular member,0.0
+2020-04-21,Miami,indexed regular member,17.0
+2020-04-22,Miami,indexed regular member,19.0
+2020-04-23,Miami,indexed regular member,21.0
+2020-04-24,Miami,indexed regular member,25.0
+2020-04-25,Miami,indexed regular member,10.0
+2020-04-26,Miami,indexed regular member,0.0
+2020-04-27,Miami,indexed regular member,21.0
+2020-04-28,Miami,indexed regular member,25.0
+2020-04-29,Miami,indexed regular member,26.0
+2020-04-30,Miami,indexed regular member,24.0
+2020-05-01,Miami,indexed regular member,38.0
+2020-05-02,Miami,indexed regular member,22.0
+2020-05-03,Miami,indexed regular member,8.0
+2020-05-04,Miami,indexed regular member,19.0
+2020-05-05,Miami,indexed regular member,29.0
+2020-05-06,Miami,indexed regular member,38.0
+2020-05-07,Miami,indexed regular member,28.0
+2020-05-08,Miami,indexed regular member,37.0
+2020-05-09,Miami,indexed regular member,27.0
+2020-05-10,Miami,indexed regular member,5.0
+2020-05-11,Miami,indexed regular member,15.0
+2020-05-12,Miami,indexed regular member,29.0
+2020-05-13,Miami,indexed regular member,20.0
+2020-05-14,Miami,indexed regular member,17.0
+2020-05-15,Miami,indexed regular member,24.0
+2020-05-16,Miami,indexed regular member,24.0
+2020-05-17,Miami,indexed regular member,10.0
+2020-05-18,Miami,indexed regular member,30.0
+2020-05-19,Miami,indexed regular member,29.0
+2020-05-20,Miami,indexed regular member,43.0
+2020-05-21,Miami,indexed regular member,45.0
+2020-05-22,Miami,indexed regular member,57.0
+2020-05-23,Miami,indexed regular member,37.0
+2020-05-24,Miami,indexed regular member,2.0
+2020-05-25,Miami,indexed regular member,2.0
+2020-05-26,Miami,indexed regular member,43.0
+2020-05-27,Miami,indexed regular member,49.0
+2020-05-28,Miami,indexed regular member,51.0
+2020-05-30,Miami,indexed regular member,42.0
+2020-05-31,Miami,indexed regular member,12.0
+2020-06-01,Miami,indexed regular member,53.0
+2020-06-02,Miami,indexed regular member,46.0
+2020-06-03,Miami,indexed regular member,59.0
+2020-06-04,Miami,indexed regular member,52.0
+2020-06-05,Miami,indexed regular member,62.0
+2020-06-06,Miami,indexed regular member,46.0
+2020-06-07,Miami,indexed regular member,23.0
+2020-06-08,Miami,indexed regular member,57.0
+2020-06-09,Miami,indexed regular member,65.0
+2020-06-10,Miami,indexed regular member,58.0
+2020-06-11,Miami,indexed regular member,64.0
+2020-06-12,Miami,indexed regular member,58.0
+2020-06-13,Miami,indexed regular member,53.0
+2020-06-14,Miami,indexed regular member,20.0
+2020-06-15,Miami,indexed regular member,45.0
+2020-06-16,Miami,indexed regular member,52.0
+2020-06-17,Miami,indexed regular member,65.0
+2020-06-18,Miami,indexed regular member,63.0
+2020-06-19,Miami,indexed regular member,69.0
+2020-06-20,Miami,indexed regular member,50.0
+2020-06-21,Miami,indexed regular member,29.0
+2020-06-22,Miami,indexed regular member,51.0
+2020-06-23,Miami,indexed regular member,63.0
+2020-06-24,Miami,indexed regular member,60.0
+2020-06-25,Miami,indexed regular member,67.0
+2020-06-26,Miami,indexed regular member,69.0
+2020-06-27,Miami,indexed regular member,52.0
+2020-06-28,Miami,indexed regular member,29.0
+2020-06-29,Miami,indexed regular member,51.0
+2020-06-30,Miami,indexed regular member,63.0
+2020-07-01,Miami,indexed regular member,62.0
+2020-07-02,Miami,indexed regular member,61.0
+2020-07-03,Miami,indexed regular member,56.0
+2020-07-04,Miami,indexed regular member,30.0
+2020-07-05,Miami,indexed regular member,16.0
+2020-07-06,Miami,indexed regular member,51.0
+2020-07-07,Miami,indexed regular member,59.0
+2020-07-08,Miami,indexed regular member,64.0
+2020-07-09,Miami,indexed regular member,62.0
+2020-07-10,Miami,indexed regular member,66.0
+2020-07-11,Miami,indexed regular member,43.0
+2020-07-12,Miami,indexed regular member,33.0
+2020-07-13,Miami,indexed regular member,61.0
+2020-07-14,Miami,indexed regular member,73.0
+2020-07-15,Miami,indexed regular member,63.0
+2020-07-16,Miami,indexed regular member,57.0
+2020-07-17,Miami,indexed regular member,81.0
+2020-07-18,Miami,indexed regular member,36.0
+2020-07-19,Miami,indexed regular member,24.0
+2020-07-20,Miami,indexed regular member,46.0
+2020-07-21,Miami,indexed regular member,48.0
+2020-07-22,Miami,indexed regular member,46.0
+2020-07-23,Miami,indexed regular member,48.0
+2020-07-24,Miami,indexed regular member,60.0
+2020-07-25,Miami,indexed regular member,36.0
+2020-07-26,Miami,indexed regular member,17.0
+2020-07-27,Miami,indexed regular member,46.0
+2020-07-28,Miami,indexed regular member,53.0
+2020-07-29,Miami,indexed regular member,51.0
+2020-07-30,Miami,indexed regular member,53.0
+2020-07-31,Miami,indexed regular member,56.0
+2020-08-01,Miami,indexed regular member,15.0
+2020-08-02,Miami,indexed regular member,0.0
+2020-08-03,Miami,indexed regular member,38.0
+2020-08-04,Miami,indexed regular member,55.0
+2020-08-05,Miami,indexed regular member,59.0
+2020-08-06,Miami,indexed regular member,53.0
+2020-08-07,Miami,indexed regular member,63.0
+2020-08-08,Miami,indexed regular member,52.0
+2020-08-09,Miami,indexed regular member,23.0
+2020-08-10,Miami,indexed regular member,56.0
+2020-08-11,Miami,indexed regular member,62.0
+2020-08-12,Miami,indexed regular member,59.0
+2020-08-13,Miami,indexed regular member,61.0
+2020-08-14,Miami,indexed regular member,70.0
+2020-08-15,Miami,indexed regular member,56.0
+2020-08-16,Miami,indexed regular member,22.0
+2020-08-17,Miami,indexed regular member,54.0
+2020-08-18,Miami,indexed regular member,61.0
+2020-08-19,Miami,indexed regular member,56.0
+2020-08-20,Miami,indexed regular member,63.0
+2020-08-21,Miami,indexed regular member,77.0
+2020-08-22,Miami,indexed regular member,58.0
+2020-08-23,Miami,indexed regular member,29.0
+2020-08-24,Miami,indexed regular member,58.0
+2020-08-25,Miami,indexed regular member,67.0
+2020-08-26,Miami,indexed regular member,69.0
+2020-08-27,Miami,indexed regular member,67.0
+2020-08-28,Miami,indexed regular member,78.0
+2020-08-29,Miami,indexed regular member,62.0
+2020-08-30,Miami,indexed regular member,27.0
+2020-08-31,Miami,indexed regular member,52.0
+2020-09-01,Miami,indexed regular member,62.0
+2020-09-02,Miami,indexed regular member,69.0
+2020-09-03,Miami,indexed regular member,70.0
+2020-09-04,Miami,indexed regular member,78.0
+2020-09-05,Miami,indexed regular member,58.0
+2020-09-06,Miami,indexed regular member,37.0
+2020-09-07,Miami,indexed regular member,34.0
+2020-09-08,Miami,indexed regular member,58.0
+2020-09-09,Miami,indexed regular member,62.0
+2020-09-10,Miami,indexed regular member,63.0
+2020-09-11,Miami,indexed regular member,75.0
+2020-09-12,Miami,indexed regular member,37.0
+2020-09-13,Miami,indexed regular member,28.0
+2020-09-14,Miami,indexed regular member,61.0
+2020-09-15,Miami,indexed regular member,55.0
+2020-09-16,Miami,indexed regular member,71.0
+2020-09-17,Miami,indexed regular member,70.0
+2020-09-18,Miami,indexed regular member,82.0
+2020-09-19,Miami,indexed regular member,61.0
+2020-09-20,Miami,indexed regular member,35.0
+2020-09-21,Miami,indexed regular member,50.0
+2020-09-22,Miami,indexed regular member,55.0
+2020-09-23,Miami,indexed regular member,69.0
+2020-09-24,Miami,indexed regular member,67.0
+2020-09-25,Miami,indexed regular member,74.0
+2020-09-26,Miami,indexed regular member,62.0
+2020-09-27,Miami,indexed regular member,41.0
+2020-09-28,Miami,indexed regular member,66.0
+2020-09-29,Miami,indexed regular member,74.0
+2020-09-30,Miami,indexed regular member,79.0
+2020-10-01,Miami,indexed regular member,84.0
+2020-10-02,Miami,indexed regular member,87.0
+2020-10-03,Miami,indexed regular member,56.0
+2020-10-04,Miami,indexed regular member,36.0
+2020-10-05,Miami,indexed regular member,61.0
+2020-10-06,Miami,indexed regular member,71.0
+2020-10-07,Miami,indexed regular member,76.0
+2020-10-09,Miami,indexed regular member,76.0
+2020-10-10,Miami,indexed regular member,66.0
+2020-10-11,Miami,indexed regular member,42.0
+2020-10-12,Miami,indexed regular member,65.0
+2020-10-13,Miami,indexed regular member,73.0
+2020-10-14,Miami,indexed regular member,77.0
+2020-10-15,Miami,indexed regular member,79.0
+2020-10-16,Miami,indexed regular member,84.0
+2020-10-17,Miami,indexed regular member,74.0
+2020-10-18,Miami,indexed regular member,45.0
+2020-10-19,Miami,indexed regular member,69.0
+2020-10-20,Miami,indexed regular member,73.0
+2020-10-21,Miami,indexed regular member,68.0
+2020-10-22,Miami,indexed regular member,75.0
+2020-10-23,Miami,indexed regular member,88.0
+2020-10-24,Miami,indexed regular member,66.0
+2020-10-25,Miami,indexed regular member,32.0
+2020-10-26,Miami,indexed regular member,65.0
+2020-10-27,Miami,indexed regular member,70.0
+2020-10-28,Miami,indexed regular member,75.0
+2020-10-29,Miami,indexed regular member,76.0
+2020-10-30,Miami,indexed regular member,84.0
+2020-03-01,Miami,mobility regular member,5.4670000000000005
+2020-03-02,Miami,mobility regular member,7.934
+2020-03-03,Miami,mobility regular member,7.82
+2020-03-04,Miami,mobility regular member,7.949
+2020-03-05,Miami,mobility regular member,8.283
+2020-03-06,Miami,mobility regular member,8.69
+2020-03-07,Miami,mobility regular member,7.428
+2020-03-08,Miami,mobility regular member,5.146
+2020-03-09,Miami,mobility regular member,7.638
+2020-03-10,Miami,mobility regular member,7.7479999999999976
+2020-03-11,Miami,mobility regular member,7.87
+2020-03-12,Miami,mobility regular member,7.7810000000000015
+2020-03-13,Miami,mobility regular member,7.621
+2020-03-14,Miami,mobility regular member,5.354
+2020-03-15,Miami,mobility regular member,3.275
+2020-03-16,Miami,mobility regular member,5.449
+2020-03-17,Miami,mobility regular member,4.5
+2020-03-18,Miami,mobility regular member,3.523
+2020-03-19,Miami,mobility regular member,3.485
+2020-03-20,Miami,mobility regular member,3.952
+2020-03-21,Miami,mobility regular member,1.238
+2020-03-22,Miami,mobility regular member,0.265
+2020-03-23,Miami,mobility regular member,1.422
+2020-03-24,Miami,mobility regular member,1.052
+2020-03-25,Miami,mobility regular member,0.953
+2020-03-26,Miami,mobility regular member,0.733
+2020-03-27,Miami,mobility regular member,0.81
+2020-03-28,Miami,mobility regular member,0.078
+2020-03-29,Miami,mobility regular member,0.038
+2020-03-30,Miami,mobility regular member,0.318
+2020-03-31,Miami,mobility regular member,0.428
+2020-04-01,Miami,mobility regular member,0.419
+2020-04-02,Miami,mobility regular member,0.595
+2020-04-03,Miami,mobility regular member,0.629
+2020-04-04,Miami,mobility regular member,0.08900000000000001
+2020-04-05,Miami,mobility regular member,0.033
+2020-04-06,Miami,mobility regular member,0.184
+2020-04-07,Miami,mobility regular member,0.282
+2020-04-08,Miami,mobility regular member,0.262
+2020-04-09,Miami,mobility regular member,0.34600000000000003
+2020-04-10,Miami,mobility regular member,0.624
+2020-04-11,Miami,mobility regular member,0.052000000000000005
+2020-04-12,Miami,mobility regular member,0.032
+2020-04-13,Miami,mobility regular member,0.45399999999999996
+2020-04-14,Miami,mobility regular member,0.391
+2020-04-15,Miami,mobility regular member,0.607
+2020-04-16,Miami,mobility regular member,0.6779999999999999
+2020-04-17,Miami,mobility regular member,1.304
+2020-04-18,Miami,mobility regular member,0.35
+2020-04-19,Miami,mobility regular member,0.048
+2020-04-21,Miami,mobility regular member,1.4169999999999998
+2020-04-22,Miami,mobility regular member,1.5659999999999998
+2020-04-23,Miami,mobility regular member,1.732
+2020-04-24,Miami,mobility regular member,2.055
+2020-04-25,Miami,mobility regular member,0.83
+2020-04-26,Miami,mobility regular member,0.055
+2020-04-27,Miami,mobility regular member,1.716
+2020-04-28,Miami,mobility regular member,2.004
+2020-04-29,Miami,mobility regular member,2.101
+2020-04-30,Miami,mobility regular member,1.9769999999999999
+2020-05-01,Miami,mobility regular member,3.094
+2020-05-02,Miami,mobility regular member,1.7590000000000001
+2020-05-03,Miami,mobility regular member,0.7070000000000001
+2020-05-04,Miami,mobility regular member,1.58
+2020-05-05,Miami,mobility regular member,2.383
+2020-05-06,Miami,mobility regular member,3.06
+2020-05-07,Miami,mobility regular member,2.24
+2020-05-08,Miami,mobility regular member,2.9530000000000003
+2020-05-09,Miami,mobility regular member,2.167
+2020-05-10,Miami,mobility regular member,0.41700000000000004
+2020-05-11,Miami,mobility regular member,1.2009999999999998
+2020-05-12,Miami,mobility regular member,2.31
+2020-05-13,Miami,mobility regular member,1.591
+2020-05-14,Miami,mobility regular member,1.365
+2020-05-15,Miami,mobility regular member,1.946
+2020-05-16,Miami,mobility regular member,1.975
+2020-05-17,Miami,mobility regular member,0.816
+2020-05-18,Miami,mobility regular member,2.432
+2020-05-19,Miami,mobility regular member,2.356
+2020-05-20,Miami,mobility regular member,3.4960000000000004
+2020-05-21,Miami,mobility regular member,3.625
+2020-05-22,Miami,mobility regular member,4.569
+2020-05-23,Miami,mobility regular member,2.989
+2020-05-24,Miami,mobility regular member,0.21899999999999997
+2020-05-25,Miami,mobility regular member,0.165
+2020-05-26,Miami,mobility regular member,3.43
+2020-05-27,Miami,mobility regular member,3.91
+2020-05-28,Miami,mobility regular member,4.064
+2020-05-30,Miami,mobility regular member,3.346
+2020-05-31,Miami,mobility regular member,0.981
+2020-06-01,Miami,mobility regular member,4.255
+2020-06-02,Miami,mobility regular member,3.719
+2020-06-03,Miami,mobility regular member,4.699
+2020-06-04,Miami,mobility regular member,4.178
+2020-06-05,Miami,mobility regular member,4.968
+2020-06-06,Miami,mobility regular member,3.699
+2020-06-07,Miami,mobility regular member,1.867
+2020-06-08,Miami,mobility regular member,4.558
+2020-06-09,Miami,mobility regular member,5.225
+2020-06-10,Miami,mobility regular member,4.671
+2020-06-11,Miami,mobility regular member,5.124
+2020-06-12,Miami,mobility regular member,4.688
+2020-06-13,Miami,mobility regular member,4.271
+2020-06-14,Miami,mobility regular member,1.6280000000000001
+2020-06-15,Miami,mobility regular member,3.636
+2020-06-16,Miami,mobility regular member,4.19
+2020-06-17,Miami,mobility regular member,5.169
+2020-06-18,Miami,mobility regular member,5.038
+2020-06-19,Miami,mobility regular member,5.511
+2020-06-20,Miami,mobility regular member,4.003
+2020-06-21,Miami,mobility regular member,2.356
+2020-06-22,Miami,mobility regular member,4.0569999999999995
+2020-06-23,Miami,mobility regular member,5.022
+2020-06-24,Miami,mobility regular member,4.78
+2020-06-25,Miami,mobility regular member,5.356
+2020-06-26,Miami,mobility regular member,5.487
+2020-06-27,Miami,mobility regular member,4.178
+2020-06-28,Miami,mobility regular member,2.333
+2020-06-29,Miami,mobility regular member,4.086
+2020-06-30,Miami,mobility regular member,5.065
+2020-07-01,Miami,mobility regular member,4.957
+2020-07-02,Miami,mobility regular member,4.9239999999999995
+2020-07-03,Miami,mobility regular member,4.4830000000000005
+2020-07-04,Miami,mobility regular member,2.463
+2020-07-05,Miami,mobility regular member,1.32
+2020-07-06,Miami,mobility regular member,4.069
+2020-07-07,Miami,mobility regular member,4.768
+2020-07-08,Miami,mobility regular member,5.13
+2020-07-09,Miami,mobility regular member,4.97
+2020-07-10,Miami,mobility regular member,5.307
+2020-07-11,Miami,mobility regular member,3.4330000000000003
+2020-07-12,Miami,mobility regular member,2.6910000000000003
+2020-07-13,Miami,mobility regular member,4.872
+2020-07-14,Miami,mobility regular member,5.834
+2020-07-15,Miami,mobility regular member,5.064
+2020-07-16,Miami,mobility regular member,4.581
+2020-07-17,Miami,mobility regular member,6.475
+2020-07-18,Miami,mobility regular member,2.889
+2020-07-19,Miami,mobility regular member,1.97
+2020-07-20,Miami,mobility regular member,3.668
+2020-07-21,Miami,mobility regular member,3.8289999999999997
+2020-07-22,Miami,mobility regular member,3.702
+2020-07-23,Miami,mobility regular member,3.8489999999999998
+2020-07-24,Miami,mobility regular member,4.79
+2020-07-25,Miami,mobility regular member,2.892
+2020-07-26,Miami,mobility regular member,1.3559999999999999
+2020-07-27,Miami,mobility regular member,3.6639999999999997
+2020-07-28,Miami,mobility regular member,4.244
+2020-07-29,Miami,mobility regular member,4.07
+2020-07-30,Miami,mobility regular member,4.24
+2020-07-31,Miami,mobility regular member,4.512
+2020-08-01,Miami,mobility regular member,1.217
+2020-08-02,Miami,mobility regular member,0.045
+2020-08-03,Miami,mobility regular member,3.028
+2020-08-04,Miami,mobility regular member,4.439
+2020-08-05,Miami,mobility regular member,4.726
+2020-08-06,Miami,mobility regular member,4.272
+2020-08-07,Miami,mobility regular member,5.055
+2020-08-08,Miami,mobility regular member,4.172
+2020-08-09,Miami,mobility regular member,1.9
+2020-08-10,Miami,mobility regular member,4.513
+2020-08-11,Miami,mobility regular member,4.949
+2020-08-12,Miami,mobility regular member,4.707
+2020-08-13,Miami,mobility regular member,4.925
+2020-08-14,Miami,mobility regular member,5.5760000000000005
+2020-08-15,Miami,mobility regular member,4.501
+2020-08-16,Miami,mobility regular member,1.81
+2020-08-17,Miami,mobility regular member,4.329
+2020-08-18,Miami,mobility regular member,4.895
+2020-08-19,Miami,mobility regular member,4.529
+2020-08-20,Miami,mobility regular member,5.0680000000000005
+2020-08-21,Miami,mobility regular member,6.188
+2020-08-22,Miami,mobility regular member,4.663
+2020-08-23,Miami,mobility regular member,2.318
+2020-08-24,Miami,mobility regular member,4.687
+2020-08-25,Miami,mobility regular member,5.386
+2020-08-26,Miami,mobility regular member,5.541
+2020-08-27,Miami,mobility regular member,5.332999999999998
+2020-08-28,Miami,mobility regular member,6.269
+2020-08-29,Miami,mobility regular member,4.994
+2020-08-30,Miami,mobility regular member,2.184
+2020-08-31,Miami,mobility regular member,4.19
+2020-09-01,Miami,mobility regular member,4.965
+2020-09-02,Miami,mobility regular member,5.528
+2020-09-03,Miami,mobility regular member,5.572
+2020-09-04,Miami,mobility regular member,6.226
+2020-09-05,Miami,mobility regular member,4.626
+2020-09-06,Miami,mobility regular member,2.992
+2020-09-07,Miami,mobility regular member,2.759
+2020-09-08,Miami,mobility regular member,4.643
+2020-09-09,Miami,mobility regular member,4.9510000000000005
+2020-09-10,Miami,mobility regular member,5.086
+2020-09-11,Miami,mobility regular member,6.013999999999999
+2020-09-12,Miami,mobility regular member,2.97
+2020-09-13,Miami,mobility regular member,2.233
+2020-09-14,Miami,mobility regular member,4.878
+2020-09-15,Miami,mobility regular member,4.3919999999999995
+2020-09-16,Miami,mobility regular member,5.652
+2020-09-17,Miami,mobility regular member,5.626
+2020-09-18,Miami,mobility regular member,6.585
+2020-09-19,Miami,mobility regular member,4.923
+2020-09-20,Miami,mobility regular member,2.807
+2020-09-21,Miami,mobility regular member,4.052
+2020-09-22,Miami,mobility regular member,4.444
+2020-09-23,Miami,mobility regular member,5.517
+2020-09-24,Miami,mobility regular member,5.341
+2020-09-25,Miami,mobility regular member,5.912000000000001
+2020-09-26,Miami,mobility regular member,4.9860000000000015
+2020-09-27,Miami,mobility regular member,3.333
+2020-09-28,Miami,mobility regular member,5.303999999999999
+2020-09-29,Miami,mobility regular member,5.934
+2020-09-30,Miami,mobility regular member,6.346
+2020-10-01,Miami,mobility regular member,6.702999999999999
+2020-10-02,Miami,mobility regular member,6.952999999999999
+2020-10-03,Miami,mobility regular member,4.479
+2020-10-04,Miami,mobility regular member,2.875
+2020-10-05,Miami,mobility regular member,4.872
+2020-10-06,Miami,mobility regular member,5.685
+2020-10-07,Miami,mobility regular member,6.05
+2020-10-09,Miami,mobility regular member,6.097
+2020-10-10,Miami,mobility regular member,5.251
+2020-10-11,Miami,mobility regular member,3.385
+2020-10-12,Miami,mobility regular member,5.195
+2020-10-13,Miami,mobility regular member,5.867999999999999
+2020-10-14,Miami,mobility regular member,6.164
+2020-10-15,Miami,mobility regular member,6.322
+2020-10-16,Miami,mobility regular member,6.7070000000000025
+2020-10-17,Miami,mobility regular member,5.902
+2020-10-18,Miami,mobility regular member,3.622
+2020-10-19,Miami,mobility regular member,5.499
+2020-10-20,Miami,mobility regular member,5.803
+2020-10-21,Miami,mobility regular member,5.4460000000000015
+2020-10-22,Miami,mobility regular member,6.005
+2020-10-23,Miami,mobility regular member,7.068
+2020-10-24,Miami,mobility regular member,5.276
+2020-10-25,Miami,mobility regular member,2.617
+2020-10-26,Miami,mobility regular member,5.2379999999999995
+2020-10-27,Miami,mobility regular member,5.612
+2020-10-28,Miami,mobility regular member,5.972
+2020-10-29,Miami,mobility regular member,6.0420000000000025
+2020-10-30,Miami,mobility regular member,6.697
+2020-01-13,Miami,transit,100.0
+2020-01-14,Miami,transit,99.91
+2020-01-15,Miami,transit,100.02
+2020-01-16,Miami,transit,101.38
+2020-01-17,Miami,transit,99.07
+2020-01-18,Miami,transit,90.66
+2020-01-19,Miami,transit,77.52
+2020-01-20,Miami,transit,91.11
+2020-01-21,Miami,transit,98.34
+2020-01-22,Miami,transit,90.83
+2020-01-23,Miami,transit,94.63
+2020-01-24,Miami,transit,102.02
+2020-01-25,Miami,transit,89.63
+2020-01-26,Miami,transit,72.92
+2020-01-27,Miami,transit,98.79
+2020-01-28,Miami,transit,98.94
+2020-01-29,Miami,transit,99.81
+2020-01-30,Miami,transit,104.0
+2020-01-31,Miami,transit,111.53
+2020-02-01,Miami,transit,97.23
+2020-02-02,Miami,transit,81.54
+2020-02-03,Miami,transit,100.71
+2020-02-04,Miami,transit,99.65
+2020-02-05,Miami,transit,101.14
+2020-02-06,Miami,transit,104.71
+2020-02-07,Miami,transit,99.92
+2020-02-08,Miami,transit,93.25
+2020-02-09,Miami,transit,81.54
+2020-02-10,Miami,transit,102.08
+2020-02-11,Miami,transit,100.78
+2020-02-12,Miami,transit,102.15
+2020-02-13,Miami,transit,106.68
+2020-02-14,Miami,transit,108.21
+2020-02-15,Miami,transit,87.61
+2020-02-16,Miami,transit,80.75
+2020-02-17,Miami,transit,100.39
+2020-02-18,Miami,transit,105.14
+2020-02-19,Miami,transit,103.4
+2020-02-20,Miami,transit,103.14
+2020-02-21,Miami,transit,106.78
+2020-02-22,Miami,transit,94.75
+2020-02-23,Miami,transit,80.49
+2020-02-24,Miami,transit,102.52
+2020-02-25,Miami,transit,103.4
+2020-02-26,Miami,transit,101.92
+2020-02-27,Miami,transit,99.41
+2020-02-28,Miami,transit,103.83
+2020-02-29,Miami,transit,94.08
+2020-03-01,Miami,transit,78.62
+2020-03-02,Miami,transit,101.48
+2020-03-03,Miami,transit,100.25
+2020-03-04,Miami,transit,104.76
+2020-03-05,Miami,transit,103.77
+2020-03-06,Miami,transit,104.24
+2020-03-07,Miami,transit,93.01
+2020-03-08,Miami,transit,75.9
+2020-03-09,Miami,transit,101.76
+2020-03-10,Miami,transit,101.2
+2020-03-11,Miami,transit,98.4
+2020-03-12,Miami,transit,90.22
+2020-03-13,Miami,transit,87.73
+2020-03-14,Miami,transit,77.2
+2020-03-15,Miami,transit,62.73
+2020-03-16,Miami,transit,70.88
+2020-03-17,Miami,transit,59.55
+2020-03-18,Miami,transit,54.91
+2020-03-19,Miami,transit,48.81
+2020-03-20,Miami,transit,46.08
+2020-03-21,Miami,transit,37.93
+2020-03-22,Miami,transit,31.97
+2020-03-23,Miami,transit,37.63
+2020-03-24,Miami,transit,36.99
+2020-03-25,Miami,transit,36.21
+2020-03-26,Miami,transit,34.42
+2020-03-27,Miami,transit,35.45
+2020-03-28,Miami,transit,30.95
+2020-03-29,Miami,transit,27.22
+2020-03-30,Miami,transit,33.86
+2020-03-31,Miami,transit,34.24
+2020-04-01,Miami,transit,31.18
+2020-04-02,Miami,transit,29.73
+2020-04-03,Miami,transit,29.54
+2020-04-04,Miami,transit,27.86
+2020-04-05,Miami,transit,24.05
+2020-04-06,Miami,transit,28.32
+2020-04-07,Miami,transit,28.04
+2020-04-08,Miami,transit,29.64
+2020-04-09,Miami,transit,29.78
+2020-04-10,Miami,transit,29.39
+2020-04-11,Miami,transit,26.74
+2020-04-12,Miami,transit,22.43
+2020-04-13,Miami,transit,29.61
+2020-04-14,Miami,transit,29.2
+2020-04-15,Miami,transit,28.06
+2020-04-16,Miami,transit,28.14
+2020-04-17,Miami,transit,30.06
+2020-04-18,Miami,transit,27.05
+2020-04-19,Miami,transit,24.69
+2020-04-20,Miami,transit,30.64
+2020-04-21,Miami,transit,31.41
+2020-04-22,Miami,transit,29.31
+2020-04-23,Miami,transit,30.41
+2020-04-24,Miami,transit,32.98
+2020-04-25,Miami,transit,30.16
+2020-04-26,Miami,transit,25.44
+2020-04-27,Miami,transit,32.78
+2020-04-28,Miami,transit,33.41
+2020-04-29,Miami,transit,33.44
+2020-04-30,Miami,transit,30.94
+2020-05-01,Miami,transit,35.28
+2020-05-02,Miami,transit,32.66
+2020-05-03,Miami,transit,30.07
+2020-05-04,Miami,transit,37.91
+2020-05-05,Miami,transit,38.6
+2020-05-06,Miami,transit,37.76
+2020-05-07,Miami,transit,36.02
+2020-05-08,Miami,transit,38.93
+2020-05-09,Miami,transit,37.17
+2020-05-10,Miami,transit,26.61
+2020-05-11,Miami,transit,26.61
+2020-05-12,Miami,transit,26.61
+2020-05-13,Miami,transit,39.46
+2020-05-14,Miami,transit,37.07
+2020-05-15,Miami,transit,34.91
+2020-05-16,Miami,transit,36.15
+2020-05-17,Miami,transit,33.99
+2020-05-18,Miami,transit,39.96
+2020-05-19,Miami,transit,42.44
+2020-05-20,Miami,transit,42.85
+2020-05-21,Miami,transit,42.04
+2020-05-22,Miami,transit,46.38
+2020-05-23,Miami,transit,41.69
+2020-05-24,Miami,transit,30.6
+2020-05-25,Miami,transit,33.56
+2020-05-26,Miami,transit,44.75
+2020-05-27,Miami,transit,46.19
+2020-05-28,Miami,transit,49.1
+2020-05-29,Miami,transit,50.31
+2020-05-30,Miami,transit,47.88
+2020-05-31,Miami,transit,38.79
+2020-06-01,Miami,transit,49.15
+2020-06-02,Miami,transit,49.24
+2020-06-03,Miami,transit,45.99
+2020-06-04,Miami,transit,46.36
+2020-06-05,Miami,transit,51.74
+2020-06-06,Miami,transit,47.93
+2020-06-07,Miami,transit,44.36
+2020-06-08,Miami,transit,55.74
+2020-06-09,Miami,transit,57.09
+2020-06-10,Miami,transit,57.67
+2020-06-11,Miami,transit,57.6
+2020-06-12,Miami,transit,59.57
+2020-06-13,Miami,transit,54.91
+2020-06-14,Miami,transit,45.74
+2020-06-15,Miami,transit,58.88
+2020-06-16,Miami,transit,60.16
+2020-06-17,Miami,transit,56.02
+2020-06-18,Miami,transit,54.17
+2020-06-19,Miami,transit,57.38
+2020-06-20,Miami,transit,54.49
+2020-06-21,Miami,transit,44.47
+2020-06-22,Miami,transit,60.06
+2020-06-23,Miami,transit,60.59
+2020-06-24,Miami,transit,60.38
+2020-06-25,Miami,transit,59.31
+2020-06-26,Miami,transit,59.11
+2020-06-27,Miami,transit,57.0
+2020-06-28,Miami,transit,48.96
+2020-06-29,Miami,transit,58.33
+2020-06-30,Miami,transit,59.58
+2020-07-01,Miami,transit,57.0
+2020-07-02,Miami,transit,55.23
+2020-07-03,Miami,transit,53.65
+2020-07-04,Miami,transit,44.55
+2020-07-05,Miami,transit,40.57
+2020-07-06,Miami,transit,53.55
+2020-07-07,Miami,transit,56.18
+2020-07-08,Miami,transit,55.24
+2020-07-09,Miami,transit,55.44
+2020-07-10,Miami,transit,55.83
+2020-07-11,Miami,transit,49.9
+2020-07-12,Miami,transit,44.94
+2020-07-13,Miami,transit,56.1
+2020-07-14,Miami,transit,56.45
+2020-07-15,Miami,transit,53.37
+2020-07-16,Miami,transit,54.38
+2020-07-17,Miami,transit,53.38
+2020-07-18,Miami,transit,43.49
+2020-07-19,Miami,transit,43.74
+2020-07-20,Miami,transit,53.98
+2020-07-21,Miami,transit,51.69
+2020-07-22,Miami,transit,49.86
+2020-07-23,Miami,transit,51.94
+2020-07-24,Miami,transit,54.64
+2020-07-25,Miami,transit,50.45
+2020-07-26,Miami,transit,45.14
+2020-07-27,Miami,transit,56.41
+2020-07-28,Miami,transit,56.45
+2020-07-29,Miami,transit,57.35
+2020-07-30,Miami,transit,56.59
+2020-07-31,Miami,transit,56.3
+2020-08-01,Miami,transit,40.02
+2020-08-02,Miami,transit,36.29
+2020-08-03,Miami,transit,54.26
+2020-08-04,Miami,transit,55.27
+2020-08-05,Miami,transit,54.73
+2020-08-06,Miami,transit,55.69
+2020-08-07,Miami,transit,60.71
+2020-08-08,Miami,transit,54.6
+2020-08-09,Miami,transit,47.35
+2020-08-10,Miami,transit,58.55
+2020-08-11,Miami,transit,56.8
+2020-08-12,Miami,transit,56.92
+2020-08-13,Miami,transit,59.96
+2020-08-14,Miami,transit,61.64
+2020-08-15,Miami,transit,53.97
+2020-08-16,Miami,transit,47.82
+2020-08-17,Miami,transit,58.07
+2020-08-18,Miami,transit,59.64
+2020-08-19,Miami,transit,53.55
+2020-08-20,Miami,transit,55.24
+2020-08-21,Miami,transit,60.64
+2020-08-22,Miami,transit,55.24
+2020-08-23,Miami,transit,46.74
+2020-08-24,Miami,transit,56.59
+2020-08-25,Miami,transit,57.67
+2020-08-26,Miami,transit,58.37
+2020-08-27,Miami,transit,57.5
+2020-08-28,Miami,transit,59.98
+2020-08-29,Miami,transit,54.86
+2020-08-30,Miami,transit,46.07
+2020-08-31,Miami,transit,54.45
+2020-09-01,Miami,transit,57.87
+2020-09-02,Miami,transit,56.74
+2020-09-03,Miami,transit,57.19
+2020-09-04,Miami,transit,62.26
+2020-09-05,Miami,transit,56.59
+2020-09-06,Miami,transit,46.55
+2020-09-07,Miami,transit,51.07
+2020-09-08,Miami,transit,57.74
+2020-09-09,Miami,transit,54.81
+2020-09-10,Miami,transit,56.76
+2020-09-11,Miami,transit,60.39
+2020-09-12,Miami,transit,46.98
+2020-09-13,Miami,transit,47.02
+2020-09-14,Miami,transit,59.17
+2020-09-15,Miami,transit,60.37
+2020-09-16,Miami,transit,60.5
+2020-09-17,Miami,transit,64.97
+2020-09-18,Miami,transit,65.62
+2020-09-19,Miami,transit,59.95
+2020-09-20,Miami,transit,51.4
+2020-09-21,Miami,transit,55.49
+2020-09-22,Miami,transit,63.48
+2020-09-23,Miami,transit,61.51
+2020-09-24,Miami,transit,58.92
+2020-09-25,Miami,transit,62.75
+2020-09-26,Miami,transit,58.28
+2020-09-27,Miami,transit,52.4
+2020-09-28,Miami,transit,62.66
+2020-09-29,Miami,transit,61.93
+2020-09-30,Miami,transit,61.36
+2020-10-01,Miami,transit,61.81
+2020-10-02,Miami,transit,61.36
+2020-10-03,Miami,transit,55.47
+2020-10-04,Miami,transit,51.17
+2020-10-05,Miami,transit,63.49
+2020-10-06,Miami,transit,65.66
+2020-10-07,Miami,transit,67.72
+2020-10-08,Miami,transit,66.54
+2020-10-09,Miami,transit,67.64
+2020-10-10,Miami,transit,59.74
+2020-10-11,Miami,transit,54.48
+2020-10-12,Miami,transit,65.4
+2020-10-13,Miami,transit,64.57
+2020-10-14,Miami,transit,64.93
+2020-10-15,Miami,transit,64.67
+2020-10-16,Miami,transit,63.27
+2020-10-17,Miami,transit,61.69
+2020-10-18,Miami,transit,53.27
+2020-10-19,Miami,transit,64.82
+2020-10-20,Miami,transit,62.96
+2020-10-21,Miami,transit,56.02
+2020-10-22,Miami,transit,63.89
+2020-10-23,Miami,transit,70.31
+2020-10-24,Miami,transit,60.15
+2020-10-25,Miami,transit,51.38
+2020-10-26,Miami,transit,70.16
+2020-10-27,Miami,transit,67.81
+2020-10-28,Miami,transit,67.07
+2020-10-29,Miami,transit,68.25
+2020-10-30,Miami,transit,71.6
+2020-10-31,Miami,transit,63.25
+2020-11-01,Miami,transit,56.31
+2020-11-02,Miami,transit,67.27
+2020-11-03,Miami,transit,65.77
+2020-11-04,Miami,transit,62.88
+2020-11-05,Miami,transit,62.0
+2020-11-06,Miami,transit,65.11
+2020-11-07,Miami,transit,52.98
+2020-11-08,Miami,transit,37.87
+2020-11-09,Miami,transit,46.88
+2020-11-10,Miami,transit,65.29
+2020-11-11,Miami,transit,64.24
+2020-11-12,Miami,transit,58.33
+2020-11-13,Miami,transit,70.34
+2020-11-14,Miami,transit,63.49
+2020-11-15,Miami,transit,54.99
+2020-11-16,Miami,transit,67.75
+2020-11-17,Miami,transit,67.29
+2020-11-18,Miami,transit,66.01
+2020-11-19,Miami,transit,67.97
+2020-11-20,Miami,transit,70.13
+2020-11-21,Miami,transit,64.49
+2020-11-22,Miami,transit,56.53
+2020-11-23,Miami,transit,72.34
+2020-11-24,Miami,transit,72.2
+2020-11-25,Miami,transit,67.83
+2020-11-26,Miami,transit,45.26
+2020-11-27,Miami,transit,61.98
+2020-11-28,Miami,transit,62.1
+2020-11-29,Miami,transit,57.44
+2020-11-30,Miami,transit,71.55
+2020-12-01,Miami,transit,69.09
+2020-12-02,Miami,transit,68.5
+2020-12-03,Miami,transit,68.37
+2020-12-04,Miami,transit,71.09
+2020-12-05,Miami,transit,66.53
+2020-12-06,Miami,transit,57.34
+2020-12-07,Miami,transit,66.73
+2020-12-08,Miami,transit,68.3
+2020-12-09,Miami,transit,69.04
+2020-12-10,Miami,transit,69.72
+2020-12-11,Miami,transit,70.15
+2020-12-12,Miami,transit,68.98
+2020-12-13,Miami,transit,62.51
+2020-12-14,Miami,transit,75.34
+2020-12-15,Miami,transit,74.28
+2020-12-16,Miami,transit,74.95
+2020-12-17,Miami,transit,75.77
+2020-12-18,Miami,transit,78.03
+2020-12-19,Miami,transit,69.02
+2020-12-20,Miami,transit,64.24
+2020-12-21,Miami,transit,77.76
+2020-12-22,Miami,transit,79.3
+2020-12-23,Miami,transit,74.89
+2020-12-24,Miami,transit,62.0
+2020-12-25,Miami,transit,42.63
+2020-12-26,Miami,transit,64.94
+2020-12-27,Miami,transit,62.84
+2020-12-28,Miami,transit,76.52
+2020-12-29,Miami,transit,78.09
+2020-12-30,Miami,transit,78.95
+2020-12-31,Miami,transit,72.19
+2021-01-01,Miami,transit,65.45
+2021-01-02,Miami,transit,75.57
+2021-01-03,Miami,transit,70.8
+2021-01-04,Miami,transit,83.58
+2021-01-05,Miami,transit,80.65
+2021-01-06,Miami,transit,75.75
+2020-01-13,Miami,driving,100.0
+2020-01-14,Miami,driving,103.67
+2020-01-15,Miami,driving,105.71
+2020-01-16,Miami,driving,109.05
+2020-01-17,Miami,driving,126.28
+2020-01-18,Miami,driving,114.06
+2020-01-19,Miami,driving,86.67
+2020-01-20,Miami,driving,98.67
+2020-01-21,Miami,driving,104.95
+2020-01-22,Miami,driving,102.79
+2020-01-23,Miami,driving,110.12
+2020-01-24,Miami,driving,122.63
+2020-01-25,Miami,driving,112.8
+2020-01-26,Miami,driving,82.05
+2020-01-27,Miami,driving,98.52
+2020-01-28,Miami,driving,103.55
+2020-01-29,Miami,driving,105.18
+2020-01-30,Miami,driving,115.25
+2020-01-31,Miami,driving,132.65
+2020-02-01,Miami,driving,123.52
+2020-02-02,Miami,driving,93.24
+2020-02-03,Miami,driving,105.8
+2020-02-04,Miami,driving,103.92
+2020-02-05,Miami,driving,105.71
+2020-02-06,Miami,driving,110.33
+2020-02-07,Miami,driving,121.0
+2020-02-08,Miami,driving,116.08
+2020-02-09,Miami,driving,87.7
+2020-02-10,Miami,driving,103.16
+2020-02-11,Miami,driving,107.83
+2020-02-12,Miami,driving,111.9
+2020-02-13,Miami,driving,120.02
+2020-02-14,Miami,driving,138.38
+2020-02-15,Miami,driving,117.0
+2020-02-16,Miami,driving,90.57
+2020-02-17,Miami,driving,104.36
+2020-02-18,Miami,driving,112.82
+2020-02-19,Miami,driving,111.72
+2020-02-20,Miami,driving,115.98
+2020-02-21,Miami,driving,127.54
+2020-02-22,Miami,driving,120.1
+2020-02-23,Miami,driving,91.06
+2020-02-24,Miami,driving,103.89
+2020-02-25,Miami,driving,108.66
+2020-02-26,Miami,driving,112.37
+2020-02-27,Miami,driving,115.4
+2020-02-28,Miami,driving,132.62
+2020-02-29,Miami,driving,123.35
+2020-03-01,Miami,driving,91.71
+2020-03-02,Miami,driving,106.56
+2020-03-03,Miami,driving,109.8
+2020-03-04,Miami,driving,116.1
+2020-03-05,Miami,driving,117.09
+2020-03-06,Miami,driving,130.25
+2020-03-07,Miami,driving,127.61
+2020-03-08,Miami,driving,90.81
+2020-03-09,Miami,driving,109.35
+2020-03-10,Miami,driving,113.46
+2020-03-11,Miami,driving,113.02
+2020-03-12,Miami,driving,110.28
+2020-03-13,Miami,driving,117.29
+2020-03-14,Miami,driving,105.91
+2020-03-15,Miami,driving,77.24
+2020-03-16,Miami,driving,85.86
+2020-03-17,Miami,driving,78.31
+2020-03-18,Miami,driving,70.17
+2020-03-19,Miami,driving,65.71
+2020-03-20,Miami,driving,66.75
+2020-03-21,Miami,driving,51.9
+2020-03-22,Miami,driving,38.06
+2020-03-23,Miami,driving,48.02
+2020-03-24,Miami,driving,47.5
+2020-03-25,Miami,driving,46.64
+2020-03-26,Miami,driving,46.47
+2020-03-27,Miami,driving,48.99
+2020-03-28,Miami,driving,40.88
+2020-03-29,Miami,driving,31.97
+2020-03-30,Miami,driving,43.07
+2020-03-31,Miami,driving,43.64
+2020-04-01,Miami,driving,43.46
+2020-04-02,Miami,driving,43.88
+2020-04-03,Miami,driving,45.85
+2020-04-04,Miami,driving,39.06
+2020-04-05,Miami,driving,29.34
+2020-04-06,Miami,driving,40.3
+2020-04-07,Miami,driving,42.04
+2020-04-08,Miami,driving,43.01
+2020-04-09,Miami,driving,44.03
+2020-04-10,Miami,driving,48.19
+2020-04-11,Miami,driving,41.19
+2020-04-12,Miami,driving,29.54
+2020-04-13,Miami,driving,44.05
+2020-04-14,Miami,driving,45.11
+2020-04-15,Miami,driving,47.84
+2020-04-16,Miami,driving,47.83
+2020-04-17,Miami,driving,53.96
+2020-04-18,Miami,driving,47.99
+2020-04-19,Miami,driving,38.23
+2020-04-20,Miami,driving,50.13
+2020-04-21,Miami,driving,49.59
+2020-04-22,Miami,driving,50.99
+2020-04-23,Miami,driving,51.98
+2020-04-24,Miami,driving,57.55
+2020-04-25,Miami,driving,52.13
+2020-04-26,Miami,driving,37.02
+2020-04-27,Miami,driving,52.7
+2020-04-28,Miami,driving,54.19
+2020-04-29,Miami,driving,55.54
+2020-04-30,Miami,driving,54.8
+2020-05-01,Miami,driving,67.47
+2020-05-02,Miami,driving,60.66
+2020-05-03,Miami,driving,47.81
+2020-05-04,Miami,driving,59.8
+2020-05-05,Miami,driving,64.16
+2020-05-06,Miami,driving,63.57
+2020-05-07,Miami,driving,65.91
+2020-05-08,Miami,driving,75.27
+2020-05-09,Miami,driving,71.41
+2020-05-10,Miami,driving,47.23
+2020-05-11,Miami,driving,47.23
+2020-05-12,Miami,driving,47.23
+2020-05-13,Miami,driving,68.91
+2020-05-14,Miami,driving,68.58
+2020-05-15,Miami,driving,74.54
+2020-05-16,Miami,driving,73.5
+2020-05-17,Miami,driving,57.91
+2020-05-18,Miami,driving,69.7
+2020-05-19,Miami,driving,76.04
+2020-05-20,Miami,driving,77.29
+2020-05-21,Miami,driving,79.36
+2020-05-22,Miami,driving,93.68
+2020-05-23,Miami,driving,84.72
+2020-05-24,Miami,driving,57.88
+2020-05-25,Miami,driving,58.19
+2020-05-26,Miami,driving,77.23
+2020-05-27,Miami,driving,82.65
+2020-05-28,Miami,driving,88.04
+2020-05-29,Miami,driving,98.59
+2020-05-30,Miami,driving,94.11
+2020-05-31,Miami,driving,71.82
+2020-06-01,Miami,driving,82.94
+2020-06-02,Miami,driving,83.78
+2020-06-03,Miami,driving,82.39
+2020-06-04,Miami,driving,86.52
+2020-06-05,Miami,driving,101.01
+2020-06-06,Miami,driving,96.18
+2020-06-07,Miami,driving,74.53
+2020-06-08,Miami,driving,89.29
+2020-06-09,Miami,driving,94.45
+2020-06-10,Miami,driving,95.81
+2020-06-11,Miami,driving,98.12
+2020-06-12,Miami,driving,113.23
+2020-06-13,Miami,driving,106.59
+2020-06-14,Miami,driving,79.29
+2020-06-15,Miami,driving,92.59
+2020-06-16,Miami,driving,98.78
+2020-06-17,Miami,driving,96.92
+2020-06-18,Miami,driving,98.88
+2020-06-19,Miami,driving,114.05
+2020-06-20,Miami,driving,108.76
+2020-06-21,Miami,driving,76.51
+2020-06-22,Miami,driving,96.36
+2020-06-23,Miami,driving,100.43
+2020-06-24,Miami,driving,101.3
+2020-06-25,Miami,driving,103.71
+2020-06-26,Miami,driving,116.21
+2020-06-27,Miami,driving,106.99
+2020-06-28,Miami,driving,81.54
+2020-06-29,Miami,driving,95.33
+2020-06-30,Miami,driving,99.24
+2020-07-01,Miami,driving,100.04
+2020-07-02,Miami,driving,105.0
+2020-07-03,Miami,driving,105.31
+2020-07-04,Miami,driving,82.19
+2020-07-05,Miami,driving,71.17
+2020-07-06,Miami,driving,92.11
+2020-07-07,Miami,driving,95.39
+2020-07-08,Miami,driving,95.31
+2020-07-09,Miami,driving,98.72
+2020-07-10,Miami,driving,109.3
+2020-07-11,Miami,driving,95.52
+2020-07-12,Miami,driving,74.19
+2020-07-13,Miami,driving,91.42
+2020-07-14,Miami,driving,93.22
+2020-07-15,Miami,driving,94.85
+2020-07-16,Miami,driving,97.03
+2020-07-17,Miami,driving,104.61
+2020-07-18,Miami,driving,90.81
+2020-07-19,Miami,driving,76.76
+2020-07-20,Miami,driving,90.99
+2020-07-21,Miami,driving,92.16
+2020-07-22,Miami,driving,90.87
+2020-07-23,Miami,driving,92.74
+2020-07-24,Miami,driving,108.71
+2020-07-25,Miami,driving,99.95
+2020-07-26,Miami,driving,78.59
+2020-07-27,Miami,driving,92.87
+2020-07-28,Miami,driving,95.6
+2020-07-29,Miami,driving,97.55
+2020-07-30,Miami,driving,100.41
+2020-07-31,Miami,driving,108.59
+2020-08-01,Miami,driving,75.7
+2020-08-02,Miami,driving,60.35
+2020-08-03,Miami,driving,92.66
+2020-08-04,Miami,driving,97.16
+2020-08-05,Miami,driving,97.03
+2020-08-06,Miami,driving,100.66
+2020-08-07,Miami,driving,113.93
+2020-08-08,Miami,driving,107.32
+2020-08-09,Miami,driving,83.57
+2020-08-10,Miami,driving,97.42
+2020-08-11,Miami,driving,99.25
+2020-08-12,Miami,driving,100.89
+2020-08-13,Miami,driving,104.32
+2020-08-14,Miami,driving,115.68
+2020-08-15,Miami,driving,106.34
+2020-08-16,Miami,driving,83.7
+2020-08-17,Miami,driving,97.24
+2020-08-18,Miami,driving,101.83
+2020-08-19,Miami,driving,97.43
+2020-08-20,Miami,driving,100.04
+2020-08-21,Miami,driving,114.85
+2020-08-22,Miami,driving,107.65
+2020-08-23,Miami,driving,81.74
+2020-08-24,Miami,driving,91.22
+2020-08-25,Miami,driving,96.05
+2020-08-26,Miami,driving,97.88
+2020-08-27,Miami,driving,99.75
+2020-08-28,Miami,driving,113.83
+2020-08-29,Miami,driving,105.47
+2020-08-30,Miami,driving,79.07
+2020-08-31,Miami,driving,91.73
+2020-09-01,Miami,driving,96.62
+2020-09-02,Miami,driving,97.23
+2020-09-03,Miami,driving,101.47
+2020-09-04,Miami,driving,119.09
+2020-09-05,Miami,driving,108.8
+2020-09-06,Miami,driving,85.3
+2020-09-07,Miami,driving,82.44
+2020-09-08,Miami,driving,95.28
+2020-09-09,Miami,driving,95.62
+2020-09-10,Miami,driving,100.55
+2020-09-11,Miami,driving,115.13
+2020-09-12,Miami,driving,98.3
+2020-09-13,Miami,driving,79.38
+2020-09-14,Miami,driving,94.73
+2020-09-15,Miami,driving,99.2
+2020-09-16,Miami,driving,100.16
+2020-09-17,Miami,driving,102.68
+2020-09-18,Miami,driving,117.54
+2020-09-19,Miami,driving,111.31
+2020-09-20,Miami,driving,81.3
+2020-09-21,Miami,driving,88.12
+2020-09-22,Miami,driving,95.77
+2020-09-23,Miami,driving,96.69
+2020-09-24,Miami,driving,98.92
+2020-09-25,Miami,driving,112.86
+2020-09-26,Miami,driving,107.32
+2020-09-27,Miami,driving,81.75
+2020-09-28,Miami,driving,91.89
+2020-09-29,Miami,driving,94.92
+2020-09-30,Miami,driving,94.46
+2020-10-01,Miami,driving,97.86
+2020-10-02,Miami,driving,112.25
+2020-10-03,Miami,driving,101.83
+2020-10-04,Miami,driving,78.75
+2020-10-05,Miami,driving,92.63
+2020-10-06,Miami,driving,95.54
+2020-10-07,Miami,driving,97.78
+2020-10-08,Miami,driving,102.36
+2020-10-09,Miami,driving,116.29
+2020-10-10,Miami,driving,108.14
+2020-10-11,Miami,driving,81.63
+2020-10-12,Miami,driving,92.85
+2020-10-13,Miami,driving,95.88
+2020-10-14,Miami,driving,98.29
+2020-10-15,Miami,driving,102.63
+2020-10-16,Miami,driving,113.26
+2020-10-17,Miami,driving,110.96
+2020-10-18,Miami,driving,82.45
+2020-10-19,Miami,driving,92.25
+2020-10-20,Miami,driving,95.79
+2020-10-21,Miami,driving,91.6
+2020-10-22,Miami,driving,101.15
+2020-10-23,Miami,driving,118.38
+2020-10-24,Miami,driving,108.45
+2020-10-25,Miami,driving,77.31
+2020-10-26,Miami,driving,96.04
+2020-10-27,Miami,driving,99.55
+2020-10-28,Miami,driving,101.58
+2020-10-29,Miami,driving,106.63
+2020-10-30,Miami,driving,122.17
+2020-10-31,Miami,driving,115.32
+2020-11-01,Miami,driving,80.76
+2020-11-02,Miami,driving,92.25
+2020-11-03,Miami,driving,96.24
+2020-11-04,Miami,driving,87.86
+2020-11-05,Miami,driving,93.15
+2020-11-06,Miami,driving,107.08
+2020-11-07,Miami,driving,93.78
+2020-11-08,Miami,driving,56.76
+2020-11-09,Miami,driving,67.86
+2020-11-10,Miami,driving,92.77
+2020-11-11,Miami,driving,95.45
+2020-11-12,Miami,driving,87.74
+2020-11-13,Miami,driving,111.46
+2020-11-14,Miami,driving,104.48
+2020-11-15,Miami,driving,79.78
+2020-11-16,Miami,driving,91.91
+2020-11-17,Miami,driving,94.36
+2020-11-18,Miami,driving,96.37
+2020-11-19,Miami,driving,99.07
+2020-11-20,Miami,driving,114.67
+2020-11-21,Miami,driving,106.64
+2020-11-22,Miami,driving,79.21
+2020-11-23,Miami,driving,99.2
+2020-11-24,Miami,driving,104.59
+2020-11-25,Miami,driving,109.97
+2020-11-26,Miami,driving,64.66
+2020-11-27,Miami,driving,92.93
+2020-11-28,Miami,driving,94.46
+2020-11-29,Miami,driving,76.09
+2020-11-30,Miami,driving,92.75
+2020-12-01,Miami,driving,96.63
+2020-12-02,Miami,driving,96.56
+2020-12-03,Miami,driving,98.5
+2020-12-04,Miami,driving,112.6
+2020-12-05,Miami,driving,107.07
+2020-12-06,Miami,driving,79.18
+2020-12-07,Miami,driving,92.06
+2020-12-08,Miami,driving,95.98
+2020-12-09,Miami,driving,98.25
+2020-12-10,Miami,driving,100.09
+2020-12-11,Miami,driving,115.38
+2020-12-12,Miami,driving,109.4
+2020-12-13,Miami,driving,83.6
+2020-12-14,Miami,driving,97.25
+2020-12-15,Miami,driving,100.95
+2020-12-16,Miami,driving,103.69
+2020-12-17,Miami,driving,108.21
+2020-12-18,Miami,driving,122.3
+2020-12-19,Miami,driving,114.33
+2020-12-20,Miami,driving,89.88
+2020-12-21,Miami,driving,110.11
+2020-12-22,Miami,driving,115.62
+2020-12-23,Miami,driving,120.58
+2020-12-24,Miami,driving,97.99
+2020-12-25,Miami,driving,58.91
+2020-12-26,Miami,driving,95.71
+2020-12-27,Miami,driving,83.35
+2020-12-28,Miami,driving,102.16
+2020-12-29,Miami,driving,109.22
+2020-12-30,Miami,driving,116.01
+2020-12-31,Miami,driving,113.2
+2021-01-01,Miami,driving,85.21
+2021-01-02,Miami,driving,106.69
+2021-01-03,Miami,driving,86.64
+2021-01-04,Miami,driving,100.68
+2021-01-05,Miami,driving,104.79
+2021-01-06,Miami,driving,100.6
+2020-01-13,Miami,walking,100.0
+2020-01-14,Miami,walking,100.61
+2020-01-15,Miami,walking,103.83
+2020-01-16,Miami,walking,107.84
+2020-01-17,Miami,walking,124.99
+2020-01-18,Miami,walking,141.41
+2020-01-19,Miami,walking,105.45
+2020-01-20,Miami,walking,102.91
+2020-01-21,Miami,walking,96.86
+2020-01-22,Miami,walking,94.17
+2020-01-23,Miami,walking,96.7
+2020-01-24,Miami,walking,123.5
+2020-01-25,Miami,walking,138.25
+2020-01-26,Miami,walking,97.93
+2020-01-27,Miami,walking,96.35
+2020-01-28,Miami,walking,99.55
+2020-01-29,Miami,walking,102.21
+2020-01-30,Miami,walking,115.51
+2020-01-31,Miami,walking,145.54
+2020-02-01,Miami,walking,159.48
+2020-02-02,Miami,walking,115.57
+2020-02-03,Miami,walking,104.41
+2020-02-04,Miami,walking,96.78
+2020-02-05,Miami,walking,99.04
+2020-02-06,Miami,walking,105.68
+2020-02-07,Miami,walking,120.96
+2020-02-08,Miami,walking,143.15
+2020-02-09,Miami,walking,107.92
+2020-02-10,Miami,walking,97.65
+2020-02-11,Miami,walking,98.78
+2020-02-12,Miami,walking,104.17
+2020-02-13,Miami,walking,114.73
+2020-02-14,Miami,walking,141.2
+2020-02-15,Miami,walking,130.54
+2020-02-16,Miami,walking,108.55
+2020-02-17,Miami,walking,109.71
+2020-02-18,Miami,walking,106.25
+2020-02-19,Miami,walking,107.9
+2020-02-20,Miami,walking,113.79
+2020-02-21,Miami,walking,131.9
+2020-02-22,Miami,walking,144.38
+2020-02-23,Miami,walking,109.76
+2020-02-24,Miami,walking,104.56
+2020-02-25,Miami,walking,104.12
+2020-02-26,Miami,walking,99.97
+2020-02-27,Miami,walking,110.02
+2020-02-28,Miami,walking,134.95
+2020-02-29,Miami,walking,151.28
+2020-03-01,Miami,walking,111.77
+2020-03-02,Miami,walking,115.71
+2020-03-03,Miami,walking,113.76
+2020-03-04,Miami,walking,120.0
+2020-03-05,Miami,walking,125.68
+2020-03-06,Miami,walking,147.03
+2020-03-07,Miami,walking,164.7
+2020-03-08,Miami,walking,123.7
+2020-03-09,Miami,walking,132.75
+2020-03-10,Miami,walking,136.22
+2020-03-11,Miami,walking,137.97
+2020-03-12,Miami,walking,137.47
+2020-03-13,Miami,walking,152.82
+2020-03-14,Miami,walking,157.06
+2020-03-15,Miami,walking,111.25
+2020-03-16,Miami,walking,100.81
+2020-03-17,Miami,walking,87.74
+2020-03-18,Miami,walking,73.52
+2020-03-19,Miami,walking,66.45
+2020-03-20,Miami,walking,64.51
+2020-03-21,Miami,walking,53.68
+2020-03-22,Miami,walking,39.41
+2020-03-23,Miami,walking,47.11
+2020-03-24,Miami,walking,46.3
+2020-03-25,Miami,walking,44.52
+2020-03-26,Miami,walking,45.26
+2020-03-27,Miami,walking,46.86
+2020-03-28,Miami,walking,42.06
+2020-03-29,Miami,walking,34.4
+2020-03-30,Miami,walking,42.66
+2020-03-31,Miami,walking,42.38
+2020-04-01,Miami,walking,42.52
+2020-04-02,Miami,walking,41.97
+2020-04-03,Miami,walking,44.83
+2020-04-04,Miami,walking,41.3
+2020-04-05,Miami,walking,31.65
+2020-04-06,Miami,walking,39.26
+2020-04-07,Miami,walking,42.15
+2020-04-08,Miami,walking,43.49
+2020-04-09,Miami,walking,43.66
+2020-04-10,Miami,walking,46.77
+2020-04-11,Miami,walking,42.03
+2020-04-12,Miami,walking,31.83
+2020-04-13,Miami,walking,43.41
+2020-04-14,Miami,walking,43.72
+2020-04-15,Miami,walking,44.19
+2020-04-16,Miami,walking,44.48
+2020-04-17,Miami,walking,49.2
+2020-04-18,Miami,walking,46.57
+2020-04-19,Miami,walking,39.45
+2020-04-20,Miami,walking,47.65
+2020-04-21,Miami,walking,47.21
+2020-04-22,Miami,walking,47.92
+2020-04-23,Miami,walking,48.64
+2020-04-24,Miami,walking,51.83
+2020-04-25,Miami,walking,49.63
+2020-04-26,Miami,walking,34.59
+2020-04-27,Miami,walking,49.81
+2020-04-28,Miami,walking,50.57
+2020-04-29,Miami,walking,51.8
+2020-04-30,Miami,walking,49.2
+2020-05-01,Miami,walking,63.46
+2020-05-02,Miami,walking,58.84
+2020-05-03,Miami,walking,46.77
+2020-05-04,Miami,walking,57.05
+2020-05-05,Miami,walking,59.34
+2020-05-06,Miami,walking,58.13
+2020-05-07,Miami,walking,59.86
+2020-05-08,Miami,walking,68.89
+2020-05-09,Miami,walking,67.48
+2020-05-10,Miami,walking,41.76
+2020-05-11,Miami,walking,41.76
+2020-05-12,Miami,walking,41.76
+2020-05-13,Miami,walking,64.78
+2020-05-14,Miami,walking,62.72
+2020-05-15,Miami,walking,67.05
+2020-05-16,Miami,walking,71.64
+2020-05-17,Miami,walking,57.27
+2020-05-18,Miami,walking,62.23
+2020-05-19,Miami,walking,69.21
+2020-05-20,Miami,walking,71.4
+2020-05-21,Miami,walking,73.94
+2020-05-22,Miami,walking,88.98
+2020-05-23,Miami,walking,83.29
+2020-05-24,Miami,walking,54.37
+2020-05-25,Miami,walking,53.27
+2020-05-26,Miami,walking,69.92
+2020-05-27,Miami,walking,77.12
+2020-05-28,Miami,walking,83.95
+2020-05-29,Miami,walking,95.85
+2020-05-30,Miami,walking,97.22
+2020-05-31,Miami,walking,74.04
+2020-06-01,Miami,walking,77.97
+2020-06-02,Miami,walking,79.22
+2020-06-03,Miami,walking,76.18
+2020-06-04,Miami,walking,79.91
+2020-06-05,Miami,walking,96.61
+2020-06-06,Miami,walking,98.92
+2020-06-07,Miami,walking,74.22
+2020-06-08,Miami,walking,84.45
+2020-06-09,Miami,walking,90.74
+2020-06-10,Miami,walking,92.15
+2020-06-11,Miami,walking,96.63
+2020-06-12,Miami,walking,113.8
+2020-06-13,Miami,walking,116.91
+2020-06-14,Miami,walking,84.8
+2020-06-15,Miami,walking,89.19
+2020-06-16,Miami,walking,97.64
+2020-06-17,Miami,walking,93.82
+2020-06-18,Miami,walking,95.27
+2020-06-19,Miami,walking,115.85
+2020-06-20,Miami,walking,120.16
+2020-06-21,Miami,walking,81.64
+2020-06-22,Miami,walking,95.98
+2020-06-23,Miami,walking,99.77
+2020-06-24,Miami,walking,100.61
+2020-06-25,Miami,walking,104.41
+2020-06-26,Miami,walking,120.28
+2020-06-27,Miami,walking,119.75
+2020-06-28,Miami,walking,88.14
+2020-06-29,Miami,walking,94.35
+2020-06-30,Miami,walking,96.88
+2020-07-01,Miami,walking,97.09
+2020-07-02,Miami,walking,102.05
+2020-07-03,Miami,walking,107.23
+2020-07-04,Miami,walking,88.31
+2020-07-05,Miami,walking,71.27
+2020-07-06,Miami,walking,89.57
+2020-07-07,Miami,walking,94.24
+2020-07-08,Miami,walking,93.0
+2020-07-09,Miami,walking,96.71
+2020-07-10,Miami,walking,106.87
+2020-07-11,Miami,walking,99.52
+2020-07-12,Miami,walking,77.86
+2020-07-13,Miami,walking,89.52
+2020-07-14,Miami,walking,90.33
+2020-07-15,Miami,walking,91.06
+2020-07-16,Miami,walking,94.4
+2020-07-17,Miami,walking,102.25
+2020-07-18,Miami,walking,92.81
+2020-07-19,Miami,walking,79.34
+2020-07-20,Miami,walking,87.22
+2020-07-21,Miami,walking,85.96
+2020-07-22,Miami,walking,84.3
+2020-07-23,Miami,walking,87.53
+2020-07-24,Miami,walking,106.21
+2020-07-25,Miami,walking,105.11
+2020-07-26,Miami,walking,80.96
+2020-07-27,Miami,walking,88.63
+2020-07-28,Miami,walking,90.72
+2020-07-29,Miami,walking,93.29
+2020-07-30,Miami,walking,97.06
+2020-07-31,Miami,walking,107.01
+2020-08-01,Miami,walking,78.08
+2020-08-02,Miami,walking,59.84
+2020-08-03,Miami,walking,84.26
+2020-08-04,Miami,walking,91.67
+2020-08-05,Miami,walking,90.56
+2020-08-06,Miami,walking,95.32
+2020-08-07,Miami,walking,111.79
+2020-08-08,Miami,walking,114.34
+2020-08-09,Miami,walking,87.01
+2020-08-10,Miami,walking,94.2
+2020-08-11,Miami,walking,95.5
+2020-08-12,Miami,walking,96.32
+2020-08-13,Miami,walking,103.03
+2020-08-14,Miami,walking,116.92
+2020-08-15,Miami,walking,114.17
+2020-08-16,Miami,walking,90.75
+2020-08-17,Miami,walking,95.49
+2020-08-18,Miami,walking,99.97
+2020-08-19,Miami,walking,92.53
+2020-08-20,Miami,walking,97.56
+2020-08-21,Miami,walking,115.29
+2020-08-22,Miami,walking,116.9
+2020-08-23,Miami,walking,86.73
+2020-08-24,Miami,walking,85.71
+2020-08-25,Miami,walking,92.58
+2020-08-26,Miami,walking,93.35
+2020-08-27,Miami,walking,99.46
+2020-08-28,Miami,walking,114.55
+2020-08-29,Miami,walking,117.89
+2020-08-30,Miami,walking,79.88
+2020-08-31,Miami,walking,85.75
+2020-09-01,Miami,walking,92.79
+2020-09-02,Miami,walking,92.3
+2020-09-03,Miami,walking,97.44
+2020-09-04,Miami,walking,118.37
+2020-09-05,Miami,walking,123.69
+2020-09-06,Miami,walking,97.68
+2020-09-07,Miami,walking,84.44
+2020-09-08,Miami,walking,87.85
+2020-09-09,Miami,walking,89.85
+2020-09-10,Miami,walking,95.34
+2020-09-11,Miami,walking,114.87
+2020-09-12,Miami,walking,98.54
+2020-09-13,Miami,walking,81.94
+2020-09-14,Miami,walking,90.02
+2020-09-15,Miami,walking,93.56
+2020-09-16,Miami,walking,97.27
+2020-09-17,Miami,walking,100.83
+2020-09-18,Miami,walking,118.4
+2020-09-19,Miami,walking,124.17
+2020-09-20,Miami,walking,87.29
+2020-09-21,Miami,walking,81.34
+2020-09-22,Miami,walking,91.69
+2020-09-23,Miami,walking,92.49
+2020-09-24,Miami,walking,91.64
+2020-09-25,Miami,walking,112.7
+2020-09-26,Miami,walking,119.08
+2020-09-27,Miami,walking,90.68
+2020-09-28,Miami,walking,90.22
+2020-09-29,Miami,walking,90.88
+2020-09-30,Miami,walking,90.04
+2020-10-01,Miami,walking,93.51
+2020-10-02,Miami,walking,111.04
+2020-10-03,Miami,walking,113.68
+2020-10-04,Miami,walking,85.51
+2020-10-05,Miami,walking,90.03
+2020-10-06,Miami,walking,92.15
+2020-10-07,Miami,walking,95.5
+2020-10-08,Miami,walking,101.83
+2020-10-09,Miami,walking,120.0
+2020-10-10,Miami,walking,124.15
+2020-10-11,Miami,walking,90.37
+2020-10-12,Miami,walking,91.37
+2020-10-13,Miami,walking,94.3
+2020-10-14,Miami,walking,95.02
+2020-10-15,Miami,walking,99.71
+2020-10-16,Miami,walking,114.25
+2020-10-17,Miami,walking,130.53
+2020-10-18,Miami,walking,91.92
+2020-10-19,Miami,walking,88.45
+2020-10-20,Miami,walking,89.71
+2020-10-21,Miami,walking,84.25
+2020-10-22,Miami,walking,98.98
+2020-10-23,Miami,walking,127.56
+2020-10-24,Miami,walking,122.93
+2020-10-25,Miami,walking,85.44
+2020-10-26,Miami,walking,95.55
+2020-10-27,Miami,walking,99.62
+2020-10-28,Miami,walking,98.69
+2020-10-29,Miami,walking,106.83
+2020-10-30,Miami,walking,129.81
+2020-10-31,Miami,walking,144.33
+2020-11-01,Miami,walking,93.17
+2020-11-02,Miami,walking,92.95
+2020-11-03,Miami,walking,101.59
+2020-11-04,Miami,walking,87.44
+2020-11-05,Miami,walking,91.68
+2020-11-06,Miami,walking,113.43
+2020-11-07,Miami,walking,104.98
+2020-11-08,Miami,walking,60.62
+2020-11-09,Miami,walking,71.9
+2020-11-10,Miami,walking,89.48
+2020-11-11,Miami,walking,96.48
+2020-11-12,Miami,walking,86.63
+2020-11-13,Miami,walking,122.65
+2020-11-14,Miami,walking,126.68
+2020-11-15,Miami,walking,94.46
+2020-11-16,Miami,walking,93.06
+2020-11-17,Miami,walking,94.49
+2020-11-18,Miami,walking,96.38
+2020-11-19,Miami,walking,101.84
+2020-11-20,Miami,walking,122.03
+2020-11-21,Miami,walking,124.31
+2020-11-22,Miami,walking,90.48
+2020-11-23,Miami,walking,103.6
+2020-11-24,Miami,walking,109.59
+2020-11-25,Miami,walking,115.97
+2020-11-26,Miami,walking,70.06
+2020-11-27,Miami,walking,112.03
+2020-11-28,Miami,walking,116.24
+2020-11-29,Miami,walking,88.88
+2020-11-30,Miami,walking,95.81
+2020-12-01,Miami,walking,102.35
+2020-12-02,Miami,walking,103.07
+2020-12-03,Miami,walking,106.48
+2020-12-04,Miami,walking,130.18
+2020-12-05,Miami,walking,135.11
+2020-12-06,Miami,walking,95.21
+2020-12-07,Miami,walking,96.16
+2020-12-08,Miami,walking,102.72
+2020-12-09,Miami,walking,103.11
+2020-12-10,Miami,walking,109.42
+2020-12-11,Miami,walking,126.34
+2020-12-12,Miami,walking,134.21
+2020-12-13,Miami,walking,100.57
+2020-12-14,Miami,walking,106.5
+2020-12-15,Miami,walking,108.43
+2020-12-16,Miami,walking,113.0
+2020-12-17,Miami,walking,116.42
+2020-12-18,Miami,walking,136.08
+2020-12-19,Miami,walking,141.4
+2020-12-20,Miami,walking,110.06
+2020-12-21,Miami,walking,123.66
+2020-12-22,Miami,walking,126.77
+2020-12-23,Miami,walking,130.89
+2020-12-24,Miami,walking,111.17
+2020-12-25,Miami,walking,67.77
+2020-12-26,Miami,walking,118.8
+2020-12-27,Miami,walking,106.6
+2020-12-28,Miami,walking,124.34
+2020-12-29,Miami,walking,135.98
+2020-12-30,Miami,walking,147.02
+2020-12-31,Miami,walking,167.24
+2021-01-01,Miami,walking,127.82
+2021-01-02,Miami,walking,151.38
+2021-01-03,Miami,walking,115.8
+2021-01-04,Miami,walking,118.43
+2021-01-05,Miami,walking,118.84
+2021-01-06,Miami,walking,114.35
